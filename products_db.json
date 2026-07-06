@@ -1,0 +1,4155 @@
+{
+ "118321": {
+  "name": "1 oz American Eagle Zlatá mince 2026",
+  "guid": "698a20d4-7522-11f1-9b83-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Gold Coin | 2026",
+   "premium_eur": 157.99,
+   "premium_pct": 4.25,
+   "weight_g": 31.1
+  },
+  "last_price": 95004
+ },
+ "11806": {
+  "name": "1 oz American Eagle Zlatá mince Mixed Years",
+  "guid": "69921f8c-7522-11f1-87e9-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Gold Coin | Mixed Years",
+   "premium_eur": 111.52,
+   "premium_pct": 3.0,
+   "weight_g": 31.1
+  },
+  "last_price": 93866
+ },
+ "109397": {
+  "name": "1 oz Britannia Charles III Zlatá mince 2026",
+  "guid": "6998bcf2-7522-11f1-ab24-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Britannia Charles III Gold Coin | 2026",
+   "premium_eur": 85.0,
+   "premium_pct": 2.29,
+   "weight_g": 31.1
+  },
+  "last_price": 93217
+ },
+ "12205": {
+  "name": "1 oz Cook Island Armillary Valcambi Zlatá mince",
+  "guid": "69a30a22-7522-11f1-8007-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Cook Island Armillary Valcambi Gold Coin",
+   "premium_eur": 269.49,
+   "premium_pct": 7.25,
+   "weight_g": 31.1
+  },
+  "last_price": 97734
+ },
+ "3002064": {
+  "name": "Argor-Heraeus zlatý slitek 1 oz",
+  "guid": "69a8d1e6-7522-11f1-b894-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Argor-Heraeus",
+   "premium_eur": 60.0,
+   "premium_pct": 1.61,
+   "weight_g": 31.1
+  },
+  "last_price": 92605
+ },
+ "3002077": {
+  "name": "1 oz Zlatý slitek Argor-Heraeus Kinebar",
+  "guid": "69aebc64-7522-11f1-a38d-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Argor-Heraeus | Kinebar",
+   "premium_eur": 75.0,
+   "premium_pct": 2.02,
+   "weight_g": 31.1
+  },
+  "last_price": 92972
+ },
+ "3002330": {
+  "name": "1 oz Zlatý slitek Argor-Heraeus Year Of The Horse 2026",
+  "guid": "69b5c540-7522-11f1-9fef-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Argor-Heraeus | Year Of The Horse | 2026",
+   "premium_eur": 73.37,
+   "premium_pct": 1.97,
+   "weight_g": 31.1
+  },
+  "last_price": 92932
+ },
+ "3002014": {
+  "name": "1 oz Zlatý slitek PAMP Fortuna",
+  "guid": "69bb7bb6-7522-11f1-8e95-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | PAMP Fortuna",
+   "premium_eur": 95.0,
+   "premium_pct": 2.56,
+   "weight_g": 31.1
+  },
+  "last_price": 93462
+ },
+ "3002152": {
+  "name": "1 oz Zlatý slitek PAMP Suisse",
+  "guid": "69c0ffd2-7522-11f1-8b5e-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | PAMP Suisse",
+   "premium_eur": 120.0,
+   "premium_pct": 3.23,
+   "weight_g": 31.1
+  },
+  "last_price": 94074
+ },
+ "3002018": {
+  "name": "1 oz Zlatý slitek Umicore",
+  "guid": "69c6d6a0-7522-11f1-8662-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Umicore",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 92727
+ },
+ "30075": {
+  "name": "1 oz Zlatý slitek Valcambi",
+  "guid": "69cca04e-7522-11f1-9510-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Valcambi",
+   "premium_eur": 75.0,
+   "premium_pct": 2.02,
+   "weight_g": 31.1
+  },
+  "last_price": 92972
+ },
+ "3002146": {
+  "name": "Valcambi Green zlatý slitek 1oz",
+  "guid": "69d2b65a-7522-11f1-b270-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Valcambi | Green Gold",
+   "premium_eur": 68.4,
+   "premium_pct": 1.84,
+   "weight_g": 31.1
+  },
+  "last_price": 92810
+ },
+ "101461": {
+  "name": "1 oz Kangaroo Zlatá mince 2026",
+  "guid": "69d8d922-7522-11f1-b59d-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Gold Coin | 2026",
+   "premium_eur": 80.0,
+   "premium_pct": 2.15,
+   "weight_g": 31.1
+  },
+  "last_price": 93094
+ },
+ "10120": {
+  "name": "1 oz Kangaroo Nugget Zlatá mince Mixed Years",
+  "guid": "69de6a68-7522-11f1-a9c7-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Nugget Gold Coin | Mixed Years",
+   "premium_eur": 40.0,
+   "premium_pct": 1.08,
+   "weight_g": 31.1
+  },
+  "last_price": 92115
+ },
+ "101466": {
+  "name": "1 oz Koala Zlatá mince Royal Australia Mint 2026",
+  "guid": "69e3f2da-7522-11f1-b6b9-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Koala Gold Coin | Royal Australia Mint | 2026",
+   "premium_eur": 225.0,
+   "premium_pct": 6.05,
+   "weight_g": 31.1
+  },
+  "last_price": 96645
+ },
+ "116276": {
+  "name": "1 oz Krugerrand Zlatá mince 2026",
+  "guid": "69e956da-7522-11f1-81f3-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Krugerrand Gold Coin | 2026",
+   "premium_eur": 95.0,
+   "premium_pct": 2.56,
+   "weight_g": 31.1
+  },
+  "last_price": 93462
+ },
+ "11607": {
+  "name": "1 oz Krugerrand Zlatá mince Mixed Years",
+  "guid": "69eef40a-7522-11f1-832e-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Krugerrand Gold Coin | Mixed Years",
+   "premium_eur": 35.0,
+   "premium_pct": 0.94,
+   "weight_g": 31.1
+  },
+  "last_price": 91992
+ },
+ "109284": {
+  "name": "1 oz Queen's Beasts Yale of Beaufort Zlatá mince (2019)",
+  "guid": "69f483a2-7522-11f1-b719-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Gold Coin | 2026",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 92727
+ },
+ "118325": {
+  "name": "1 oz American Buffalo Zlatá mince 2026",
+  "guid": "69fa981e-7522-11f1-91b4-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Buffalo Gold Coin | 2026",
+   "premium_eur": 157.99,
+   "premium_pct": 4.25,
+   "weight_g": 31.1
+  },
+  "last_price": 95004
+ },
+ "118306": {
+  "name": "1 oz American Eagle Zlatá mince 2025",
+  "guid": "6a00f8f8-7522-11f1-9101-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Gold Coin | 2025",
+   "premium_eur": 148.69,
+   "premium_pct": 4.0,
+   "weight_g": 31.1
+  },
+  "last_price": 94776
+ },
+ "109406": {
+  "name": "1 oz St George and the Dragon Zlatá mince 2026",
+  "guid": "6a0720ac-7522-11f1-a3dc-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz St George and the Dragon Gold Coin | 2026",
+   "premium_eur": 105.0,
+   "premium_pct": 2.82,
+   "weight_g": 31.1
+  },
+  "last_price": 93706
+ },
+ "11618": {
+  "name": "1 oz Krugerrand Gold 1967",
+  "guid": "6a0d1282-7522-11f1-9662-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Krugerrand Gold Coin | 2026",
+   "premium_eur": 95.0,
+   "premium_pct": 2.56,
+   "weight_g": 31.1
+  },
+  "last_price": 93462
+ },
+ "101458": {
+  "name": "1 oz Lunar III Horse Zlatá mince 2026",
+  "guid": "6a12fec2-7522-11f1-a50f-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Lunar III Horse Gold Coin | 2026",
+   "premium_eur": 105.94,
+   "premium_pct": 2.85,
+   "weight_g": 31.1
+  },
+  "last_price": 93729
+ },
+ "104320": {
+  "name": "1 oz Maple Leaf Zlatá mince 2026",
+  "guid": "6a18c0dc-7522-11f1-aac5-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Maple Leaf Gold Coin | 2026",
+   "premium_eur": 100.0,
+   "premium_pct": 2.69,
+   "weight_g": 31.1
+  },
+  "last_price": 93584
+ },
+ "109398": {
+  "name": "1 oz Tudor Beasts Queens Lion Zlatá mince 2026",
+  "guid": "6a1e8fd0-7522-11f1-b61a-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Tudor Beasts Queens Lion Gold Coin | 2026",
+   "premium_eur": 125.0,
+   "premium_pct": 3.36,
+   "weight_g": 31.1
+  },
+  "last_price": 94196
+ },
+ "109407": {
+  "name": "1 oz Tudor Beasts Royal Dragon Zlatá mince 2026",
+  "guid": "6a246d38-7522-11f1-8ed3-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Tudor Beasts Royal Dragon Gold Coin | 2026",
+   "premium_eur": 125.0,
+   "premium_pct": 3.36,
+   "weight_g": 31.1
+  },
+  "last_price": 94196
+ },
+ "102101": {
+  "name": "Wiener Philharmoniker 1 oz 2026",
+  "guid": "6a2a38e4-7522-11f1-bb83-bc241162a327",
+  "metal": "au",
+  "skip": false,
+  "last_price": null
+ },
+ "10215": {
+  "name": "1 oz Vienna Philharmonic Zlatá mince Mixed Years",
+  "guid": "6a301d36-7522-11f1-8100-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Vienna Philharmonic Gold Coin | Mixed Years",
+   "premium_eur": 50.0,
+   "premium_pct": 1.35,
+   "weight_g": 31.1
+  },
+  "last_price": 92360
+ },
+ "3002115": {
+  "name": "1/2 oz Zlatý slitek PAMP Fortuna",
+  "guid": "6a36b95c-7522-11f1-9167-bc241162a327",
+  "metal": "au",
+  "weight_g": 15.55175,
+  "skip": false,
+  "stonex": {
+   "item": "1/2 oz Gold Bar | PAMP Fortuna",
+   "premium_eur": 50.0,
+   "premium_pct": 2.69,
+   "weight_g": 15.55
+  },
+  "last_price": 46792
+ },
+ "3002256": {
+  "name": "1/2 oz Zlatý slitek Valcambi",
+  "guid": "6a3d7940-7522-11f1-b071-bc241162a327",
+  "metal": "au",
+  "weight_g": 15.55175,
+  "skip": false,
+  "stonex": {
+   "item": "1/2 oz Gold Bar | Valcambi",
+   "premium_eur": 30.0,
+   "premium_pct": 1.61,
+   "weight_g": 15.55
+  },
+  "last_price": 46302
+ },
+ "3002126": {
+  "name": "10 x 1/10 oz CombiBar® Gold Valcambi",
+  "guid": "6a441ef8-7522-11f1-82bf-bc241162a327",
+  "metal": "au",
+  "weight_g": 3.1103500000000004,
+  "skip": false,
+  "stonex": {
+   "item": "1/10 oz Kangaroo Gold Coin | 2026",
+   "premium_eur": 52.04,
+   "premium_pct": 14.0,
+   "weight_g": 3.11
+  },
+  "last_price": 96955.0
+ },
+ "3002250": {
+  "name": "10 x 1g Zlatý sliteks GoldSeed Argor-Heraeus",
+  "guid": "6a4a40ee-7522-11f1-b299-bc241162a327",
+  "metal": "au",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Gold Bar | Argor-Heraeus",
+   "premium_eur": 17.0,
+   "premium_pct": 14.22,
+   "weight_g": 1.0
+  },
+  "last_price": 33257.0
+ },
+ "3002066": {
+  "name": "100 x 1g CombiBar® Gold Valcambi",
+  "guid": "6a50c4f0-7522-11f1-bae4-bc241162a327",
+  "metal": "au",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Gold Bar | Valcambi",
+   "premium_eur": 21.5,
+   "premium_pct": 17.99,
+   "weight_g": 1.0
+  },
+  "last_price": 304171.0
+ },
+ "3002205": {
+  "name": "100g Britannia Zlatý slitek Royal Mint",
+  "guid": "6a56e1c8-7522-11f1-9528-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 200.0,
+   "premium_pct": 1.67,
+   "weight_g": 100
+  },
+  "last_price": 297937
+ },
+ "3002079": {
+  "name": "100g Zlatý slitek Argor Heraeus Casted",
+  "guid": "6a5ccb92-7522-11f1-831b-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | Argor Heraeus | Casted",
+   "premium_eur": 80.0,
+   "premium_pct": 0.67,
+   "weight_g": 100
+  },
+  "last_price": 294999
+ },
+ "3002162": {
+  "name": "100g Zlatý slitek Argor-Heraeus Kinebar",
+  "guid": "6a629824-7522-11f1-a68a-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | Argor-Heraeus | Kinebar",
+   "premium_eur": 200.0,
+   "premium_pct": 1.67,
+   "weight_g": 100
+  },
+  "last_price": 297937
+ },
+ "3002026": {
+  "name": "100g Zlatý slitek Argor-Heraeus Minted",
+  "guid": "6a680b9c-7522-11f1-8dd5-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | Argor-Heraeus | Minted",
+   "premium_eur": 180.0,
+   "premium_pct": 1.51,
+   "weight_g": 100
+  },
+  "last_price": 297447
+ },
+ "3002119": {
+  "name": "100g Zlatý slitek PAMP Fortuna",
+  "guid": "6a6d9080-7522-11f1-8cde-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | PAMP Fortuna",
+   "premium_eur": 300.0,
+   "premium_pct": 2.51,
+   "weight_g": 100
+  },
+  "last_price": 300386
+ },
+ "30059": {
+  "name": "100g Zlatý slitek Umicore Minted",
+  "guid": "6a73565a-7522-11f1-a0a9-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | Umicore | Minted",
+   "premium_eur": 150.0,
+   "premium_pct": 1.26,
+   "weight_g": 100
+  },
+  "last_price": 296713
+ },
+ "3002148": {
+  "name": "100g Zlatý slitek Valcambi Green Gold",
+  "guid": "6a7999f2-7522-11f1-8cb9-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | Valcambi | Green Gold",
+   "premium_eur": 157.65,
+   "premium_pct": 1.32,
+   "weight_g": 100
+  },
+  "last_price": 296900
+ },
+ "30062": {
+  "name": "100g Zlatý slitek Valcambi Minted",
+  "guid": "6a7f8998-7522-11f1-aaa8-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | Valcambi | Minted",
+   "premium_eur": 120.0,
+   "premium_pct": 1.0,
+   "weight_g": 100
+  },
+  "last_price": 295978
+ },
+ "3002221": {
+  "name": "10g Britannia Zlatý slitek Royal Mint",
+  "guid": "6a850a3a-7522-11f1-81f0-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 35.0,
+   "premium_pct": 2.93,
+   "weight_g": 10.0
+  },
+  "last_price": 30161
+ },
+ "3002308": {
+  "name": "10g Zlatý slitek Umicore",
+  "guid": "6a8ab3fe-7522-11f1-8939-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | Umicore",
+   "premium_eur": 46.0,
+   "premium_pct": 3.85,
+   "weight_g": 10.0
+  },
+  "last_price": 30430
+ },
+ "30014": {
+  "name": "10g Zlatý slitek Perth Mint",
+  "guid": "6a91a97a-7522-11f1-a9ea-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | Perth Mint",
+   "premium_eur": 70.06,
+   "premium_pct": 5.86,
+   "weight_g": 10.0
+  },
+  "last_price": 31019
+ },
+ "30081": {
+  "name": "10g Zlatý slitek Valcambi",
+  "guid": "6a97a802-7522-11f1-8340-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | Valcambi",
+   "premium_eur": 30.0,
+   "premium_pct": 2.51,
+   "weight_g": 10.0
+  },
+  "last_price": 30039
+ },
+ "3002102": {
+  "name": "PAMP zlatý slitek 10 g",
+  "guid": "6a9db44a-7522-11f1-aec1-bc241162a327",
+  "metal": "au",
+  "skip": false,
+  "last_price": null
+ },
+ "109287": {
+  "name": "1 oz Queen's Beasts White Lion Zlatá mince 2020",
+  "guid": "6aa36e08-7522-11f1-a316-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Tudor Beasts Queens Lion Gold Coin | 2026",
+   "premium_eur": 125.0,
+   "premium_pct": 3.36,
+   "weight_g": 31.1
+  },
+  "last_price": 94196
+ },
+ "109409": {
+  "name": "1 oz The Angel Zlatá mince 2026",
+  "guid": "6aa92d7a-7522-11f1-9ac2-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz The Angel Gold Coin | 2026",
+   "premium_eur": 35.0,
+   "premium_pct": 0.94,
+   "weight_g": 31.1
+  },
+  "last_price": 91992
+ },
+ "109405": {
+  "name": "1 oz The British Lion Zlatá mince 2026",
+  "guid": "6aaee6a2-7522-11f1-bb0b-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz The British Lion Gold Coin | 2026",
+   "premium_eur": 102.99,
+   "premium_pct": 2.77,
+   "weight_g": 31.1
+  },
+  "last_price": 93657
+ },
+ "30094": {
+  "name": "20 x 1g CombiBar® Gold Valcambi",
+  "guid": "6ab443a4-7522-11f1-98e0-bc241162a327",
+  "metal": "au",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Gold Bar | Valcambi",
+   "premium_eur": 21.5,
+   "premium_pct": 17.99,
+   "weight_g": 1.0
+  },
+  "last_price": 62765.0
+ },
+ "3002203": {
+  "name": "20g Britannia Zlatý slitek Royal Mint",
+  "guid": "6aba1cb6-7522-11f1-95c6-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 45.0,
+   "premium_pct": 1.88,
+   "weight_g": 20.0
+  },
+  "last_price": 59710
+ },
+ "30054": {
+  "name": "20g Zlatý slitek Argor-Heraeus",
+  "guid": "6abfe25e-7522-11f1-b722-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | Argor-Heraeus",
+   "premium_eur": 50.0,
+   "premium_pct": 2.09,
+   "weight_g": 20.0
+  },
+  "last_price": 59832
+ },
+ "30097": {
+  "name": "20g Zlatý slitek Argor-Heraeus Kinebar",
+  "guid": "6ac5add8-7522-11f1-9e0c-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | Argor-Heraeus | Kinebar",
+   "premium_eur": 60.0,
+   "premium_pct": 2.51,
+   "weight_g": 20.0
+  },
+  "last_price": 60077
+ },
+ "3002103": {
+  "name": "20g Zlatý slitek PAMP Fortuna",
+  "guid": "6acb8bd6-7522-11f1-860c-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | PAMP Fortuna",
+   "premium_eur": 65.0,
+   "premium_pct": 2.72,
+   "weight_g": 20.0
+  },
+  "last_price": 60200
+ },
+ "30015": {
+  "name": "20g Zlatý slitek Perth Mint",
+  "guid": "6ad129c4-7522-11f1-89de-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | Perth Mint",
+   "premium_eur": 50.0,
+   "premium_pct": 2.09,
+   "weight_g": 20.0
+  },
+  "last_price": 59832
+ },
+ "30055": {
+  "name": "20g Zlatý slitek Umicore",
+  "guid": "6ad698f0-7522-11f1-a1fe-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | Umicore",
+   "premium_eur": 55.0,
+   "premium_pct": 2.3,
+   "weight_g": 20.0
+  },
+  "last_price": 59955
+ },
+ "30080": {
+  "name": "20g Zlatý slitek Valcambi",
+  "guid": "6adcd09e-7522-11f1-827a-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | Valcambi",
+   "premium_eur": 50.0,
+   "premium_pct": 2.09,
+   "weight_g": 20.0
+  },
+  "last_price": 59832
+ },
+ "3002145": {
+  "name": "20g Zlatý slitek Valcambi Green Gold",
+  "guid": "6ae2c940-7522-11f1-9329-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | Valcambi | Green Gold",
+   "premium_eur": 46.87,
+   "premium_pct": 1.96,
+   "weight_g": 20.0
+  },
+  "last_price": 59756
+ },
+ "3002085": {
+  "name": "25 x 1g PAMP Multigram Zlatý slitek",
+  "guid": "6ae8e97e-7522-11f1-a923-bc241162a327",
+  "metal": "au",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Gold Bar | PAMP Fortuna",
+   "premium_eur": 35.0,
+   "premium_pct": 29.28,
+   "weight_g": 1.0
+  },
+  "last_price": 78541.0
+ },
+ "3002164": {
+  "name": "Heraeus zlatý slitek 250 g",
+  "guid": "6aef3784-7522-11f1-b332-bc241162a327",
+  "metal": "au",
+  "skip": false,
+  "last_price": null
+ },
+ "3002050": {
+  "name": "250g Zlatý slitek Umicore",
+  "guid": "6af54534-7522-11f1-bced-bc241162a327",
+  "metal": "au",
+  "weight_g": 250.0,
+  "skip": false,
+  "stonex": {
+   "item": "250g Gold Bar | Umicore",
+   "premium_eur": 250.0,
+   "premium_pct": 0.84,
+   "weight_g": 250
+  },
+  "last_price": 738721
+ },
+ "3002139": {
+  "name": "250g Zlatý slitek Valcambi Casted",
+  "guid": "6afb31b0-7522-11f1-a79f-bc241162a327",
+  "metal": "au",
+  "weight_g": 250.0,
+  "skip": false,
+  "stonex": {
+   "item": "250g Gold Bar | Valcambi | Casted",
+   "premium_eur": 185.0,
+   "premium_pct": 0.62,
+   "weight_g": 250
+  },
+  "last_price": 737130
+ },
+ "3002253": {
+  "name": "5 x 1g CombiBar Star Gold Valcambi Booklet",
+  "guid": "6b015662-7522-11f1-9bbb-bc241162a327",
+  "metal": "au",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Gold Bar | Valcambi",
+   "premium_eur": 21.5,
+   "premium_pct": 17.99,
+   "weight_g": 1.0
+  },
+  "last_price": 17732.0
+ },
+ "30023": {
+  "name": "50 x 1g CombiBar® Gold Valcambi",
+  "guid": "6b06fc84-7522-11f1-828f-bc241162a327",
+  "metal": "au",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Gold Bar | Valcambi",
+   "premium_eur": 21.5,
+   "premium_pct": 17.99,
+   "weight_g": 1.0
+  },
+  "last_price": 153010.0
+ },
+ "3002165": {
+  "name": "500g Zlatý slitek Argor-Heraeus Casted",
+  "guid": "6b0cc376-7522-11f1-9001-bc241162a327",
+  "metal": "au",
+  "weight_g": 500.0,
+  "skip": false,
+  "stonex": {
+   "item": "500g Gold Bar | Argor-Heraeus | Casted",
+   "premium_eur": 772.58,
+   "premium_pct": 1.29,
+   "weight_g": 500
+  },
+  "last_price": 1484116
+ },
+ "3002140": {
+  "name": "500g Zlatý slitek Valcambi Casted",
+  "guid": "6b123a2c-7522-11f1-8c2d-bc241162a327",
+  "metal": "au",
+  "weight_g": 500.0,
+  "skip": false,
+  "stonex": {
+   "item": "500g Gold Bar | Valcambi | Casted",
+   "premium_eur": 772.58,
+   "premium_pct": 1.29,
+   "weight_g": 500
+  },
+  "last_price": 1484116
+ },
+ "3002204": {
+  "name": "50g Britannia Zlatý slitek Royal Mint",
+  "guid": "6b17ab74-7522-11f1-aec7-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 100.0,
+   "premium_pct": 1.67,
+   "weight_g": 50.0
+  },
+  "last_price": 148968
+ },
+ "3002069": {
+  "name": "5g Zlatý slitek Argor-Heraeus Kinebar",
+  "guid": "6b1d759a-7522-11f1-88d3-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | Argor-Heraeus | Kinebar",
+   "premium_eur": 37.0,
+   "premium_pct": 6.19,
+   "weight_g": 5.0
+  },
+  "last_price": 15558
+ },
+ "3002078": {
+  "name": "50g Zlatý slitek Argor-Heraeus Kinebar",
+  "guid": "6b236c2a-7522-11f1-ab8f-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | Argor-Heraeus | Kinebar",
+   "premium_eur": 100.0,
+   "premium_pct": 1.67,
+   "weight_g": 50.0
+  },
+  "last_price": 148968
+ },
+ "3002073": {
+  "name": "50g Zlatý slitek Argor-Heraeus Minted",
+  "guid": "6b2998f2-7522-11f1-a47f-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | Argor-Heraeus | Minted",
+   "premium_eur": 90.0,
+   "premium_pct": 1.51,
+   "weight_g": 50.0
+  },
+  "last_price": 148724
+ },
+ "3002202": {
+  "name": "5g Britannia Zlatý slitek Royal Mint",
+  "guid": "6b2f6a34-7522-11f1-a480-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 37.5,
+   "premium_pct": 6.28,
+   "weight_g": 5.0
+  },
+  "last_price": 15570
+ },
+ "30033": {
+  "name": "5g Zlatý slitek Argor-Heraeus",
+  "guid": "6b3562fe-7522-11f1-bab4-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | Argor-Heraeus",
+   "premium_eur": 35.0,
+   "premium_pct": 5.86,
+   "weight_g": 5.0
+  },
+  "last_price": 15509
+ },
+ "3002328": {
+  "name": "5g Zlatý slitek Argor-Heraeus Year Of The Horse 2026",
+  "guid": "6b3b239c-7522-11f1-81e1-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | Argor-Heraeus | Year Of The Horse | 2026",
+   "premium_eur": 45.0,
+   "premium_pct": 7.53,
+   "weight_g": 5.0
+  },
+  "last_price": 15754
+ },
+ "3002071": {
+  "name": "10g Zlatý slitek Argor-Heraeus",
+  "guid": "6b414240-7522-11f1-a8f0-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | Argor-Heraeus",
+   "premium_eur": 30.0,
+   "premium_pct": 2.51,
+   "weight_g": 10.0
+  },
+  "last_price": 30039
+ },
+ "3002144": {
+  "name": "10g Zlatý slitek Valcambi Green Gold",
+  "guid": "6b479e88-7522-11f1-8a47-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | Valcambi | Green Gold",
+   "premium_eur": 36.27,
+   "premium_pct": 3.03,
+   "weight_g": 10.0
+  },
+  "last_price": 30192
+ },
+ "3002147": {
+  "name": "50g Zlatý slitek Valcambi Green Gold",
+  "guid": "6b4f7a9a-7522-11f1-9a7e-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | Valcambi | Green Gold",
+   "premium_eur": 108.24,
+   "premium_pct": 1.81,
+   "weight_g": 50.0
+  },
+  "last_price": 149170
+ },
+ "3002335": {
+  "name": "5g Zlatý slitek PAMP America the Free: Bald Eagle",
+  "guid": "6b58ca82-7522-11f1-9ddb-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 39.0,
+   "premium_pct": 6.53,
+   "weight_g": 5.0
+  },
+  "last_price": 15607
+ },
+ "3002337": {
+  "name": "5g Zlatý slitek PAMP Buddha",
+  "guid": "6b634d68-7522-11f1-94ea-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 39.0,
+   "premium_pct": 6.53,
+   "weight_g": 5.0
+  },
+  "last_price": 15607
+ },
+ "3002332": {
+  "name": "5g Zlatý slitek PAMP Eid Mubarak",
+  "guid": "6b6be220-7522-11f1-8260-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 39.0,
+   "premium_pct": 6.53,
+   "weight_g": 5.0
+  },
+  "last_price": 15607
+ },
+ "300233": {
+  "name": "5g Zlatý slitek PAMP Lucky Scarab",
+  "guid": "6b7318e2-7522-11f1-b6b9-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 39.0,
+   "premium_pct": 6.53,
+   "weight_g": 5.0
+  },
+  "last_price": 15607
+ },
+ "3002101": {
+  "name": "5g Zlatý slitek PAMP Fortuna",
+  "guid": "6b798cea-7522-11f1-abb9-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 39.0,
+   "premium_pct": 6.53,
+   "weight_g": 5.0
+  },
+  "last_price": 15607
+ },
+ "3002321": {
+  "name": "5g Zlatý slitek PAMP Fortuna Arabian Falcon with Frame",
+  "guid": "6b7ff5bc-7522-11f1-b1a5-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 39.0,
+   "premium_pct": 6.53,
+   "weight_g": 5.0
+  },
+  "last_price": 20946.0
+ },
+ "3002215": {
+  "name": "5g Zlatý slitek PAMP Rose",
+  "guid": "6b86cd24-7522-11f1-ace2-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | PAMP Rose",
+   "premium_eur": 39.0,
+   "premium_pct": 6.53,
+   "weight_g": 5.0
+  },
+  "last_price": 15607
+ },
+ "3002028": {
+  "name": "5g Zlatý slitek Umicore",
+  "guid": "6b8d478a-7522-11f1-8568-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | Umicore",
+   "premium_eur": 37.0,
+   "premium_pct": 6.19,
+   "weight_g": 5.0
+  },
+  "last_price": 15558
+ },
+ "30082": {
+  "name": "5g Zlatý slitek Valcambi",
+  "guid": "6b93bb7e-7522-11f1-bb5e-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | Valcambi",
+   "premium_eur": 40.0,
+   "premium_pct": 6.69,
+   "weight_g": 5.0
+  },
+  "last_price": 15631
+ },
+ "3002143": {
+  "name": "5g Zlatý slitek Valcambi Green Gold",
+  "guid": "6b99d860-7522-11f1-97bb-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | Valcambi | Green Gold",
+   "premium_eur": 47.6,
+   "premium_pct": 7.96,
+   "weight_g": 5.0
+  },
+  "last_price": 15817
+ },
+ "11807": {
+  "name": "1 oz American Buffalo Gold mixed years",
+  "guid": "6b9ffae2-7522-11f1-96e6-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Gold Coin | Mixed Years",
+   "premium_eur": 111.52,
+   "premium_pct": 3.0,
+   "weight_g": 31.1
+  },
+  "last_price": 93866
+ },
+ "109400": {
+  "name": "1 oz Bond of the 00's Zlatá mince 2025",
+  "guid": "6ba5b20c-7522-11f1-b450-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Gold Coin | 2026",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 92727
+ },
+ "109272": {
+  "name": "1 oz Britannia Zlatá mince (second choice)",
+  "guid": "6baba2fc-7522-11f1-95bc-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Britannia Charles III Gold Coin | 2026",
+   "premium_eur": 85.0,
+   "premium_pct": 2.29,
+   "weight_g": 31.1
+  },
+  "last_price": 93217
+ },
+ "10906": {
+  "name": "1 oz Britannia Zlatá mince Mixed Years 999.9",
+  "guid": "6bb1bd86-7522-11f1-b43c-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Britannia Gold Coin | Mixed Years | 999.9",
+   "premium_eur": 70.0,
+   "premium_pct": 1.88,
+   "weight_g": 31.1
+  },
+  "last_price": 92849
+ },
+ "104250": {
+  "name": "1 oz Call of the Wild \"Golden Eagle\" .99999 Zlatá mince (2018)",
+  "guid": "6bb7b88a-7522-11f1-9fc7-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Gold Coin | 2026",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 117769.0
+ },
+ "104237": {
+  "name": "1 oz Call of the Wild The Elk .99999 Zlatá mince (2017)",
+  "guid": "6bbe3a7a-7522-11f1-8322-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Gold Coin | 2026",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 110954.0
+ },
+ "106176": {
+  "name": "1 oz China Panda Zlatá mince 2010 Proof",
+  "guid": "6bc46a30-7522-11f1-b7ee-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Gold Coin | 2026",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 126225.0
+ },
+ "11228": {
+  "name": "1 oz Mexican Libertad Zlatá mince First Issue (1981)",
+  "guid": "6bcaad00-7522-11f1-ac02-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Gold Coin | 2026",
+   "premium_eur": 80.0,
+   "premium_pct": 2.15,
+   "weight_g": 31.1
+  },
+  "last_price": 121134.0
+ },
+ "109293": {
+  "name": "1 oz Queen's Beasts White Horse of Hanover Zlatá mince 2020",
+  "guid": "6bd11938-7522-11f1-abda-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Lunar III Horse Gold Coin | 2026",
+   "premium_eur": 105.94,
+   "premium_pct": 2.85,
+   "weight_g": 31.1
+  },
+  "last_price": 93729
+ },
+ "101467": {
+  "name": "1 oz Lunar III Horse Gold Bar Perth Mint",
+  "guid": "6bd79f24-7522-11f1-b264-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Lunar III Horse Gold Coin | 2026",
+   "premium_eur": 105.94,
+   "premium_pct": 2.85,
+   "weight_g": 31.1
+  },
+  "last_price": 93729
+ },
+ "104304": {
+  "name": "1 oz Maple Leaf Gold Damaged",
+  "guid": "6bdcd7aa-7522-11f1-bd44-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Maple Leaf Gold Coin | 2026",
+   "premium_eur": 100.0,
+   "premium_pct": 2.69,
+   "weight_g": 31.1
+  },
+  "last_price": 93584
+ },
+ "11211": {
+  "name": "1 oz Mexican Libertad Gold mixed years",
+  "guid": "6be31ab6-7522-11f1-81c0-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Krugerrand Gold Coin | Mixed Years",
+   "premium_eur": 35.0,
+   "premium_pct": 0.94,
+   "weight_g": 31.1
+  },
+  "last_price": 91992
+ },
+ "13115": {
+  "name": "1 oz Somalia Elephant Zlatá mince 2026",
+  "guid": "6be979b0-7522-11f1-94d5-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Gold Coin | 2026",
+   "premium_eur": 80.0,
+   "premium_pct": 2.15,
+   "weight_g": 31.1
+  },
+  "last_price": 93094
+ },
+ "30012": {
+  "name": "1 oz Zlatý slitek Different Manufacturers",
+  "guid": "6befd5a8-7522-11f1-99be-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Different Manufacturers",
+   "premium_eur": 40.0,
+   "premium_pct": 1.08,
+   "weight_g": 31.1
+  },
+  "last_price": 92115
+ },
+ "1NU03": {
+  "name": "Zlatá mince 1 oz Bitcoin",
+  "guid": "6bf5aeec-7522-11f1-8e8b-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Gold Coin | 2026",
+   "premium_eur": 80.0,
+   "premium_pct": 2.15,
+   "weight_g": 31.1
+  },
+  "last_price": 128770.0
+ },
+ "3002017": {
+  "name": "50g Zlatý slitek Umicore",
+  "guid": "6bfbd1a0-7522-11f1-90cb-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | Umicore",
+   "premium_eur": 105.0,
+   "premium_pct": 1.76,
+   "weight_g": 50.0
+  },
+  "last_price": 149091
+ },
+ "10406": {
+  "name": "1 oz Maple Leaf Zlatá mince Mixed Years",
+  "guid": "6c01899c-7522-11f1-8716-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Maple Leaf Gold Coin | Mixed Years",
+   "premium_eur": 40.0,
+   "premium_pct": 1.08,
+   "weight_g": 31.1
+  },
+  "last_price": 92115
+ },
+ "109389": {
+  "name": "1 oz The Royal Arms Zlatá mince Mixed Years",
+  "guid": "6c070a0c-7522-11f1-8f99-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz The Royal Arms Gold Coin | Mixed Years",
+   "premium_eur": 125.0,
+   "premium_pct": 3.36,
+   "weight_g": 31.1
+  },
+  "last_price": 94196
+ },
+ "10288": {
+  "name": "1 oz Vienna Philharmonic Gold Mixed Years EUR",
+  "guid": "6c0cf1a6-7522-11f1-bc39-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Vienna Philharmonic Gold Coin | Mixed Years",
+   "premium_eur": 50.0,
+   "premium_pct": 1.35,
+   "weight_g": 31.1
+  },
+  "last_price": 92360
+ },
+ "3002273": {
+  "name": "1/2 oz Zlatý slitek PAMP Rose",
+  "guid": "6c1286de-7522-11f1-b85d-bc241162a327",
+  "metal": "au",
+  "weight_g": 15.55175,
+  "skip": false,
+  "stonex": {
+   "item": "1/2 oz Gold Bar | PAMP Fortuna",
+   "premium_eur": 50.0,
+   "premium_pct": 2.69,
+   "weight_g": 15.55
+  },
+  "last_price": 46792
+ },
+ "3002182": {
+  "name": "100 x 1g CombiBar® Gold Valcambi Damaged Packaging",
+  "guid": "6c181e28-7522-11f1-9f9c-bc241162a327",
+  "metal": "au",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Gold Bar | Valcambi",
+   "premium_eur": 21.5,
+   "premium_pct": 17.99,
+   "weight_g": 1.0
+  },
+  "last_price": 280233.0
+ },
+ "3002031": {
+  "name": "100g Zlatý slitek Loxodonta Africana Rand Refinery",
+  "guid": "6c1dfece-7522-11f1-b2ae-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | Argor Heraeus | Casted",
+   "premium_eur": 80.0,
+   "premium_pct": 0.67,
+   "weight_g": 100
+  },
+  "last_price": 294999
+ },
+ "3002275": {
+  "name": "100g Zlatý slitek PAMP Rose",
+  "guid": "6c24580a-7522-11f1-af7b-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Gold Bar | PAMP Fortuna",
+   "premium_eur": 300.0,
+   "premium_pct": 2.51,
+   "weight_g": 100
+  },
+  "last_price": 300386
+ },
+ "30018": {
+  "name": "100g Zlatý slitek Perth Mint",
+  "guid": "6c29f878-7522-11f1-af15-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 200.0,
+   "premium_pct": 1.67,
+   "weight_g": 100
+  },
+  "last_price": 297937
+ },
+ "3002306": {
+  "name": "10g Zlatý slitek PAMP Rose",
+  "guid": "6c302888-7522-11f1-b52a-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | PAMP Fortuna",
+   "premium_eur": 65.0,
+   "premium_pct": 5.44,
+   "weight_g": 10.0
+  },
+  "last_price": 30896
+ },
+ "3002326": {
+  "name": "1oz Zlatý slitek PAMP Year of the Horse (1000 miles) 2026",
+  "guid": "6c3654ba-7522-11f1-84ad-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Argor-Heraeus | Year Of The Horse | 2026",
+   "premium_eur": 73.37,
+   "premium_pct": 1.97,
+   "weight_g": 31.1
+  },
+  "last_price": 92932
+ },
+ "3002272": {
+  "name": "20g Zlatý slitek PAMP Rose",
+  "guid": "6c3c221e-7522-11f1-98e8-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | PAMP Fortuna",
+   "premium_eur": 65.0,
+   "premium_pct": 2.72,
+   "weight_g": 20.0
+  },
+  "last_price": 60200
+ },
+ "30068": {
+  "name": "250g Zlatý slitek Valcambi Minted",
+  "guid": "6c417912-7522-11f1-a265-bc241162a327",
+  "metal": "au",
+  "weight_g": 250.0,
+  "skip": false,
+  "stonex": {
+   "item": "250g Gold Bar | Valcambi | Minted",
+   "premium_eur": 1878.07,
+   "premium_pct": 6.29,
+   "weight_g": 250
+  },
+  "last_price": 778585
+ },
+ "3002057": {
+  "name": "500g Zlatý slitek Different Manufacturers",
+  "guid": "6c476e9e-7522-11f1-bcf3-bc241162a327",
+  "metal": "au",
+  "weight_g": 500.0,
+  "skip": false,
+  "stonex": {
+   "item": "500g Gold Bar | Argor-Heraeus | Casted",
+   "premium_eur": 772.58,
+   "premium_pct": 1.29,
+   "weight_g": 500
+  },
+  "last_price": 1484116
+ },
+ "3002245": {
+  "name": "500g Zlatý slitek Rothschild Casted",
+  "guid": "6c4d7f50-7522-11f1-a1b6-bc241162a327",
+  "metal": "au",
+  "weight_g": 500.0,
+  "skip": false,
+  "stonex": {
+   "item": "500g Gold Bar | Argor-Heraeus | Casted",
+   "premium_eur": 772.58,
+   "premium_pct": 1.29,
+   "weight_g": 500
+  },
+  "last_price": 1484116
+ },
+ "3002034": {
+  "name": "50g Zlatý slitek Loxodonta Africana Rand Refinery",
+  "guid": "6c539fca-7522-11f1-9174-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | Umicore",
+   "premium_eur": 105.0,
+   "premium_pct": 1.76,
+   "weight_g": 50.0
+  },
+  "last_price": 149091
+ },
+ "30013": {
+  "name": "5g Zlatý slitek Perth Mint",
+  "guid": "6c59d08e-7522-11f1-8bf5-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 37.5,
+   "premium_pct": 6.28,
+   "weight_g": 5.0
+  },
+  "last_price": 15570
+ },
+ "40002": {
+  "name": "Stříbrný slitek 1 kg - Different Manufacturers",
+  "guid": "6c5fc462-7522-11f1-bac1-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Silver Bar - Different Manufacturers",
+   "premium_eur": 90.0,
+   "premium_pct": 4.69,
+   "weight_g": 1000
+  },
+  "last_price": 49215
+ },
+ "4002178": {
+  "name": "Stříbrný slitek 1 kg Damaged",
+  "guid": "6c65f558-7522-11f1-a745-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Silver Bar | Argor-Heraeus",
+   "premium_eur": 70.0,
+   "premium_pct": 3.65,
+   "weight_g": 1000
+  },
+  "last_price": 48726
+ },
+ "209252": {
+  "name": "1 oz Britannia Charles III Stříbrná mince 2026",
+  "guid": "6c6bf0d4-7522-11f1-bc35-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Britannia Charles III Silver Coin | 2026",
+   "premium_eur": 4.5,
+   "premium_pct": 7.54,
+   "weight_g": 31.1
+  },
+  "last_price": 1572
+ },
+ "4002079": {
+  "name": "Stříbrný slitek 1 kg Valcambi",
+  "guid": "6c720afa-7522-11f1-8e18-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Silver Bar | Valcambi",
+   "premium_eur": 110.0,
+   "premium_pct": 5.73,
+   "weight_g": 1000
+  },
+  "last_price": 49705
+ },
+ "21871": {
+  "name": "1 oz American Eagle Stříbrná mince 2026",
+  "guid": "6c77bfa4-7522-11f1-b8cc-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Silver Coin | 2026",
+   "premium_eur": 12.0,
+   "premium_pct": 20.09,
+   "weight_g": 31.1
+  },
+  "last_price": 1756
+ },
+ "20698": {
+  "name": "1 oz Chinese Dragon Stříbrná mince 2026",
+  "guid": "6c7da55e-7522-11f1-bc98-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Chinese Dragon Silver Coin | 2026",
+   "premium_eur": 5.0,
+   "premium_pct": 8.37,
+   "weight_g": 31.1
+  },
+  "last_price": 1584
+ },
+ "209258": {
+  "name": "1 oz Bond of the 2010's Stříbrná mince 2026",
+  "guid": "6c837c22-7522-11f1-a8b8-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Silver Coin | 2026",
+   "premium_eur": 8.5,
+   "premium_pct": 14.23,
+   "weight_g": 31.1
+  },
+  "last_price": 1670
+ },
+ "4002119": {
+  "name": "Stříbrný slitek 1 kg Nadir Metal Rafineri",
+  "guid": "6c88f44a-7522-11f1-91bc-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Silver Bar | Nadir Metal Rafineri",
+   "premium_eur": 110.0,
+   "premium_pct": 5.73,
+   "weight_g": 1000
+  },
+  "last_price": 49705
+ },
+ "201399": {
+  "name": "1 oz Australian Koala Stříbrná mince 2026",
+  "guid": "6c8eb04c-7522-11f1-99d7-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Australian Koala Silver Coin | 2026",
+   "premium_eur": 9.0,
+   "premium_pct": 15.07,
+   "weight_g": 31.1
+  },
+  "last_price": 1682
+ },
+ "11623": {
+  "name": "1 oz Krugerrand Gold 2nd choice Mixed Years",
+  "guid": "6c94790a-7522-11f1-8303-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Krugerrand Gold Coin | Mixed Years",
+   "premium_eur": 35.0,
+   "premium_pct": 0.94,
+   "weight_g": 31.1
+  },
+  "last_price": 91992
+ },
+ "201213": {
+  "name": "1 oz Kangaroo Silver Mixed Years",
+  "guid": "6c9a3c00-7522-11f1-863e-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "21614": {
+  "name": "1 oz Krugerrand Stříbrná mince 2026",
+  "guid": "6c9fd80e-7522-11f1-878a-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Krugerrand Silver Coin | 2026",
+   "premium_eur": 8.0,
+   "premium_pct": 13.4,
+   "weight_g": 31.1
+  },
+  "last_price": 1658
+ },
+ "21256": {
+  "name": "1 oz Mexican Libertad Stříbrná mince 2024 Bullion Uncirculated",
+  "guid": "6ca54794-7522-11f1-b968-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 1967.0
+ },
+ "235168": {
+  "name": "1 oz Noah's Ark Stříbrná mince 2026",
+  "guid": "6caaddd0-7522-11f1-a2e8-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Noah's Ark Silver Coin | 2026",
+   "premium_eur": 2.6,
+   "premium_pct": 4.35,
+   "weight_g": 31.1
+  },
+  "last_price": 1526
+ },
+ "20227": {
+  "name": "1 oz Vienna Philharmonic Stříbrná mince 2026",
+  "guid": "6cb03596-7522-11f1-af0f-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Vienna Philharmonic Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 1609
+ },
+ "4002091": {
+  "name": "10 x 10g CombiBar® Silver Valcambi",
+  "guid": "6cb5d5dc-7522-11f1-ae92-bc241162a327",
+  "metal": "ag",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 7385.0
+ },
+ "4002106": {
+  "name": "1 oz Stříbrný slitek Nadir Metal Rafineri",
+  "guid": "6cbbd978-7522-11f1-b5c7-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 1959.0
+ },
+ "204276": {
+  "name": "1 oz Maple Leaf Stříbrná mince 2026",
+  "guid": "6cc1ba64-7522-11f1-9070-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Maple Leaf Silver Coin | 2026",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "4002129": {
+  "name": "20g Stříbrný slitek Nadir Metal Rafineri",
+  "guid": "6cc77f80-7522-11f1-a58e-bc241162a327",
+  "metal": "ag",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 1468.0
+ },
+ "4002117": {
+  "name": "250g Stříbrný slitek Nadir Metal Rafineri",
+  "guid": "6ccddf24-7522-11f1-9970-bc241162a327",
+  "metal": "ag",
+  "weight_g": 250.0,
+  "skip": false,
+  "stonex": {
+   "item": "250g Silver Bar | Nadir Metal Rafineri",
+   "premium_eur": 35.0,
+   "premium_pct": 7.29,
+   "weight_g": 250
+  },
+  "last_price": 12610
+ },
+ "30017": {
+  "name": "50g Zlatý slitek Perth Mint",
+  "guid": "6cd3e720-7522-11f1-84d1-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 100.0,
+   "premium_pct": 1.67,
+   "weight_g": 50.0
+  },
+  "last_price": 148968
+ },
+ "4002118": {
+  "name": "500g Stříbrný slitek Nadir Metal Rafineri",
+  "guid": "6cda351c-7522-11f1-b2c3-bc241162a327",
+  "metal": "ag",
+  "weight_g": 500.0,
+  "skip": false,
+  "stonex": {
+   "item": "500g Silver Bar | Nadir Metal Rafineri",
+   "premium_eur": 60.0,
+   "premium_pct": 6.25,
+   "weight_g": 500
+  },
+  "last_price": 24975
+ },
+ "4002130": {
+  "name": "50g Stříbrný slitek Nadir Metal Rafineri",
+  "guid": "6ce05bc2-7522-11f1-91f1-bc241162a327",
+  "metal": "ag",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 3140.0
+ },
+ "4002241": {
+  "name": "Stříbrný slitek 1 kg Valcambi Minted",
+  "guid": "6ce612a6-7522-11f1-93ac-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Silver Bar | Valcambi",
+   "premium_eur": 110.0,
+   "premium_pct": 5.73,
+   "weight_g": 1000
+  },
+  "last_price": 63050.0
+ },
+ "20128": {
+  "name": "1 oz Australian Koala Silver mixed years",
+  "guid": "6ceb55c2-7522-11f1-8000-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Australian Koala Silver Coin | 2026",
+   "premium_eur": 9.0,
+   "premium_pct": 15.07,
+   "weight_g": 31.1
+  },
+  "last_price": 3376.0
+ },
+ "201390": {
+  "name": "1 oz Kangaroo Stříbrná mince 2026",
+  "guid": "6cf14338-7522-11f1-bea1-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 1609
+ },
+ "2BG71": {
+  "name": "1 oz Buffalo Silver Round",
+  "guid": "6cf7322a-7522-11f1-8670-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 1609
+ },
+ "20602": {
+  "name": "1 oz China Panda Stříbrná mince (mixed years)",
+  "guid": "6cfd1b5e-7522-11f1-a625-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1858.0
+ },
+ "21611": {
+  "name": "1 oz Krugerrand Stříbrná mince Mixed Years",
+  "guid": "6d02f5ec-7522-11f1-8b8a-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "3002149": {
+  "name": "50g Zlatý slitek Valcambi Casted",
+  "guid": "6d090c02-7522-11f1-af29-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | Valcambi | Green Gold",
+   "premium_eur": 108.24,
+   "premium_pct": 1.81,
+   "weight_g": 50.0
+  },
+  "last_price": 149170
+ },
+ "4002073": {
+  "name": "100 x 1g CombiBar® Silver Valcambi",
+  "guid": "6d0f6dfe-7522-11f1-a45b-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 7817.0
+ },
+ "4002120": {
+  "name": "100g Stříbrný slitek Nadir Metal Rafineri Minted",
+  "guid": "6d1600a6-7522-11f1-bed7-bc241162a327",
+  "metal": "ag",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Silver Bar | Nadir Metal Rafineri | Minted",
+   "premium_eur": 28.5,
+   "premium_pct": 14.84,
+   "weight_g": 100
+  },
+  "last_price": 5399
+ },
+ "4002220": {
+  "name": "Stříbrný slitek 1 kg Heraeus",
+  "guid": "6d1ca35c-7522-11f1-b303-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Silver Bar | Heraeus",
+   "premium_eur": 80.0,
+   "premium_pct": 4.17,
+   "weight_g": 1000
+  },
+  "last_price": 48971
+ },
+ "204280": {
+  "name": "1 oz Maple Leaf Stříbrná mince Mixed Years Bullion Uncirculated",
+  "guid": "6d231ad4-7522-11f1-8b0b-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Maple Leaf Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "20411": {
+  "name": "1 oz Maple Leaf Stříbrná mince Mixed Years",
+  "guid": "6d2954e4-7522-11f1-b69e-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Maple Leaf Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "201200": {
+  "name": "1 oz Kookaburra Stříbrná mince (mixed years)",
+  "guid": "6d2f0bbe-7522-11f1-9ed1-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "201394": {
+  "name": "1 oz Kookaburra Stříbrná mince 2026",
+  "guid": "6d35a0b4-7522-11f1-89ab-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 2029.0
+ },
+ "201386": {
+  "name": "1 oz Lunar III Horse Stříbrná mince 2026",
+  "guid": "6d3bbb3e-7522-11f1-80de-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Britannia Charles III Silver Coin | 2026",
+   "premium_eur": 4.5,
+   "premium_pct": 7.54,
+   "weight_g": 31.1
+  },
+  "last_price": 1889.0
+ },
+ "21206": {
+  "name": "1 oz Mexican Libertad Stříbrná mince (mixed years)",
+  "guid": "6d4162d2-7522-11f1-9a7e-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "2NU197": {
+  "name": "1 oz Silver Bitcoin",
+  "guid": "6d474ee0-7522-11f1-b6f8-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 1967.0
+ },
+ "201392": {
+  "name": "1 oz Lunar III Horse Rectangular Stříbrná mince 2026",
+  "guid": "6d4ceb5c-7522-11f1-ac62-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Britannia Charles III Silver Coin | 2026",
+   "premium_eur": 4.5,
+   "premium_pct": 7.54,
+   "weight_g": 31.1
+  },
+  "last_price": 2122.0
+ },
+ "20904": {
+  "name": "1 oz Silver Britannia Stříbrná mince Mixed Years",
+  "guid": "6d52525e-7522-11f1-be9b-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "23114": {
+  "name": "1 oz Somalia Elephant Stříbrná mince 2026",
+  "guid": "6d586798-7522-11f1-ae85-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 1609
+ },
+ "4002242": {
+  "name": "500g Stříbrný slitek Valcambi Minted",
+  "guid": "6d5e1e5e-7522-11f1-8732-bc241162a327",
+  "metal": "ag",
+  "weight_g": 500.0,
+  "skip": false,
+  "stonex": {
+   "item": "500g Silver Bar | Nadir Metal Rafineri",
+   "premium_eur": 60.0,
+   "premium_pct": 6.25,
+   "weight_g": 500
+  },
+  "last_price": 36673.0
+ },
+ "50127": {
+  "name": "1 oz Kangaroo Platinová mince 2026",
+  "guid": "6d63ebc2-7522-11f1-98c3-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Platinum Coin | 2026",
+   "premium_eur": 134.85,
+   "premium_pct": 9.0,
+   "weight_g": 31.1
+  },
+  "last_price": 48132.0
+ },
+ "50205": {
+  "name": "1 oz Vienna Philharmonic Platinová mince 2026",
+  "guid": "6d69bf84-7522-11f1-b52f-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Vienna Philharmonic Platinum Coin | 2026",
+   "premium_eur": 149.83,
+   "premium_pct": 10.0,
+   "weight_g": 31.1
+  },
+  "last_price": 48574.0
+ },
+ "70030": {
+  "name": "5g Platinový slitek PAMP Fortuna",
+  "guid": "6d6fb222-7522-11f1-9185-bc241162a327",
+  "metal": "pt",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Platinum Bar | PAMP Fortuna",
+   "premium_eur": 46.87,
+   "premium_pct": 19.46,
+   "weight_g": 5.0
+  },
+  "last_price": 8592.0
+ },
+ "70020": {
+  "name": "Platinový slitek 1 kg Valcambi",
+  "guid": "6d757860-7522-11f1-93c3-bc241162a327",
+  "metal": "pt",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 1407923.0
+ },
+ "51814": {
+  "name": "1 oz American Eagle Platinum mixed years",
+  "guid": "6d7b77ce-7522-11f1-b744-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Platinum Bar | Valcambi",
+   "premium_eur": 95.0,
+   "premium_pct": 6.34,
+   "weight_g": 31.1
+  },
+  "last_price": 46473.0
+ },
+ "50919": {
+  "name": "1 oz Britannia Charles III Platinová mince 2026",
+  "guid": "6d81b9d6-7522-11f1-8a06-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Platinum Coin | 2026",
+   "premium_eur": 134.85,
+   "premium_pct": 9.0,
+   "weight_g": 31.1
+  },
+  "last_price": 48500.0
+ },
+ "50908": {
+  "name": "1 oz Britannia Platinová mince mixed years",
+  "guid": "6d879ca2-7522-11f1-aaa1-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Platinum Coin | 2026",
+   "premium_eur": 134.85,
+   "premium_pct": 9.0,
+   "weight_g": 31.1
+  },
+  "last_price": 39991
+ },
+ "50114": {
+  "name": "1 oz Cook Island Platinum mixed years",
+  "guid": "6d8e50e2-7522-11f1-bc1e-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Platinum Bar | Valcambi",
+   "premium_eur": 95.0,
+   "premium_pct": 6.34,
+   "weight_g": 31.1
+  },
+  "last_price": 47159.0
+ },
+ "50103": {
+  "name": "1 oz Koala Platinum mixed years",
+  "guid": "6d945a78-7522-11f1-8215-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Platinum Bar | Valcambi",
+   "premium_eur": 95.0,
+   "premium_pct": 6.34,
+   "weight_g": 31.1
+  },
+  "last_price": 49053.0
+ },
+ "50126": {
+  "name": "1 oz Lunar III Horse Platinová mince 2026",
+  "guid": "6d9a7bf6-7522-11f1-a36b-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Platinum Coin | 2026",
+   "premium_eur": 134.85,
+   "premium_pct": 9.0,
+   "weight_g": 31.1
+  },
+  "last_price": 48170.0
+ },
+ "209257": {
+  "name": "1 oz The Angel Stříbrná mince 2026",
+  "guid": "6da060f2-7522-11f1-8d95-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Silver Coin | 2026",
+   "premium_eur": 8.5,
+   "premium_pct": 14.23,
+   "weight_g": 31.1
+  },
+  "last_price": 1670
+ },
+ "50417": {
+  "name": "1 oz Maple Leaf Platinum Mixed Years",
+  "guid": "6da62f64-7522-11f1-b730-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Platinum Bar | Valcambi",
+   "premium_eur": 95.0,
+   "premium_pct": 6.34,
+   "weight_g": 31.1
+  },
+  "last_price": 49016.0
+ },
+ "4002159": {
+  "name": "100g Stříbrný slitek damaged",
+  "guid": "6dabd1bc-7522-11f1-89c3-bc241162a327",
+  "metal": "ag",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Silver Bar | Nadir Metal Rafineri | Minted",
+   "premium_eur": 28.5,
+   "premium_pct": 14.84,
+   "weight_g": 100
+  },
+  "last_price": 5399
+ },
+ "40011": {
+  "name": "10 x 10g Silver CombiCoin Valcambi",
+  "guid": "6db18904-7522-11f1-9bf8-bc241162a327",
+  "metal": "ag",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 7673.0
+ },
+ "204132": {
+  "name": "1 oz Red-Tailed Hawk Birds of Prey Stříbrná mince 2015",
+  "guid": "6db80a5e-7522-11f1-b518-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Silver Coin | 2026",
+   "premium_eur": 8.5,
+   "premium_pct": 14.23,
+   "weight_g": 31.1
+  },
+  "last_price": 1670
+ },
+ "30045": {
+  "name": "1 oz Zlatý slitek Metalor",
+  "guid": "6dbe80dc-7522-11f1-a995-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Argor-Heraeus",
+   "premium_eur": 60.0,
+   "premium_pct": 1.61,
+   "weight_g": 31.1
+  },
+  "last_price": 92605
+ },
+ "109295": {
+  "name": "1 oz Queen's Beasts White Greyhound of Richmond Zlatá mince (2021)",
+  "guid": "6dc4f552-7522-11f1-b81a-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Gold Coin | 2026",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 92727
+ },
+ "80009": {
+  "name": "100g Palladium Bar Valcambi",
+  "guid": "6dcb2be8-7522-11f1-8f1e-bc241162a327",
+  "metal": "pd",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 106266.0
+ },
+ "80007": {
+  "name": "1 oz Palladium Bar Valcambi",
+  "guid": "6dd13998-7522-11f1-bf91-bc241162a327",
+  "metal": "pd",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Palladium Bar | Valcambi",
+   "premium_eur": 70.0,
+   "premium_pct": 5.96,
+   "weight_g": 31.1
+  },
+  "last_price": 30468
+ },
+ "80008": {
+  "name": "50g Palladium Bar Valcambi",
+  "guid": "6dd724f2-7522-11f1-9222-bc241162a327",
+  "metal": "pd",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 53421.0
+ },
+ "4002156": {
+  "name": "Stříbrný slitek 1 kg Argor-Heraeus",
+  "guid": "6ddd8f4a-7522-11f1-ae04-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Silver Bar | Argor-Heraeus",
+   "premium_eur": 70.0,
+   "premium_pct": 3.65,
+   "weight_g": 1000
+  },
+  "last_price": 48726
+ },
+ "70017": {
+  "name": "50g Platinový slitek Valcambi",
+  "guid": "6de40898-7522-11f1-bf1a-bc241162a327",
+  "metal": "pt",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 72410.0
+ },
+ "4002260": {
+  "name": "1 oz Stříbrný slitek PAMP Lady Fortuna",
+  "guid": "6dea4780-7522-11f1-bfa9-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 2766.0
+ },
+ "235112": {
+  "name": "1 oz Noah's Ark Silver mixed years",
+  "guid": "6df0530a-7522-11f1-8308-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Noah's Ark Silver Coin | 2026",
+   "premium_eur": 2.6,
+   "premium_pct": 4.35,
+   "weight_g": 31.1
+  },
+  "last_price": 1526
+ },
+ "400199": {
+  "name": "1 oz Stříbrný slitek StoneX Bullion",
+  "guid": "6df673d4-7522-11f1-b325-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 2249.0
+ },
+ "70010": {
+  "name": "1 oz Platinový slitek Valcambi",
+  "guid": "6dfc612c-7522-11f1-912f-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Platinum Bar | Valcambi",
+   "premium_eur": 95.0,
+   "premium_pct": 6.34,
+   "weight_g": 31.1
+  },
+  "last_price": 39015
+ },
+ "109410": {
+  "name": "1 oz Bond of the 2010's Zlatá mince 2026",
+  "guid": "6e01f556-7522-11f1-bdaa-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Bond of the 2010's Gold Coin | 2026",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 92727
+ },
+ "50111": {
+  "name": "1 oz Platypus Platinum mixed years",
+  "guid": "6e07a1b8-7522-11f1-85f6-bc241162a327",
+  "metal": "pt",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Platinum Bar | Valcambi",
+   "premium_eur": 95.0,
+   "premium_pct": 6.34,
+   "weight_g": 31.1
+  },
+  "last_price": 48216.0
+ },
+ "3002076": {
+  "name": "10g Zlatý slitek Argor Heraeus Kinebar",
+  "guid": "6e0d8aa6-7522-11f1-980f-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | Argor Heraeus | Kinebar",
+   "premium_eur": 45.0,
+   "premium_pct": 3.77,
+   "weight_g": 10.0
+  },
+  "last_price": 30406
+ },
+ "70015": {
+  "name": "10g Platinový slitek Valcambi",
+  "guid": "6e136908-7522-11f1-99ee-bc241162a327",
+  "metal": "pt",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": null,
+  "last_price": 17297.0
+ },
+ "70014": {
+  "name": "5g Platinový slitek Valcambi",
+  "guid": "6e18f8aa-7522-11f1-b1ff-bc241162a327",
+  "metal": "pt",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Platinum Bar | PAMP Fortuna",
+   "premium_eur": 46.87,
+   "premium_pct": 19.46,
+   "weight_g": 5.0
+  },
+  "last_price": 9218.0
+ },
+ "80015": {
+  "name": "1 oz Palladium Bar Argor Heraeus",
+  "guid": "6e1ea50c-7522-11f1-985b-bc241162a327",
+  "metal": "pd",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Palladium Bar | Valcambi",
+   "premium_eur": 70.0,
+   "premium_pct": 5.96,
+   "weight_g": 31.1
+  },
+  "last_price": 30468
+ },
+ "109224": {
+  "name": "1 oz Queen's Beasts Lion Zlatá mince (2016)",
+  "guid": "6e25a028-7522-11f1-b9e4-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Tudor Beasts Queens Lion Gold Coin | 2026",
+   "premium_eur": 125.0,
+   "premium_pct": 3.36,
+   "weight_g": 31.1
+  },
+  "last_price": 155359
+ },
+ "3002329": {
+  "name": "10g Zlatý slitek Argor-Heraeus Year Of The Horse 2026",
+  "guid": "6e2bdd80-7522-11f1-9b25-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | Argor-Heraeus | Year Of The Horse | 2026",
+   "premium_eur": 54.17,
+   "premium_pct": 4.53,
+   "weight_g": 10.0
+  },
+  "last_price": 30630
+ },
+ "3002150": {
+  "name": "50g Zlatý slitek PAMP Suisse",
+  "guid": "6e32598a-7522-11f1-8a15-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | PAMP Fortuna",
+   "premium_eur": 102.99,
+   "premium_pct": 1.72,
+   "weight_g": 50.0
+  },
+  "last_price": 149042
+ },
+ "3002104": {
+  "name": "50g Zlatý slitek PAMP Fortuna",
+  "guid": "6e386848-7522-11f1-a5eb-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | PAMP Fortuna",
+   "premium_eur": 102.99,
+   "premium_pct": 1.72,
+   "weight_g": 50.0
+  },
+  "last_price": 149042
+ },
+ "3002274": {
+  "name": "50g Zlatý slitek PAMP Rose",
+  "guid": "6e3e1b30-7522-11f1-8e29-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | PAMP Fortuna",
+   "premium_eur": 102.99,
+   "premium_pct": 1.72,
+   "weight_g": 50.0
+  },
+  "last_price": 149042
+ },
+ "70018": {
+  "name": "100g Platinový slitek Valcambi",
+  "guid": "6e446530-7522-11f1-b58a-bc241162a327",
+  "metal": "pt",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100g Platinum Bar | Valcambi",
+   "premium_eur": 203.14,
+   "premium_pct": 4.22,
+   "weight_g": 100
+  },
+  "last_price": 122944
+ },
+ "201398": {
+  "name": "1 oz Emu Perth Mint Stříbrná mince 2026",
+  "guid": "6e4a4644-7522-11f1-8f0a-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Emu Perth Mint Silver Coin | 2026",
+   "premium_eur": 6.25,
+   "premium_pct": 10.47,
+   "weight_g": 31.1
+  },
+  "last_price": 1615
+ },
+ "209255": {
+  "name": "1 oz St George and the Dragon Stříbrná mince 2026",
+  "guid": "6e5050f2-7522-11f1-8db5-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Chinese Dragon Silver Coin | 2026",
+   "premium_eur": 5.0,
+   "premium_pct": 8.37,
+   "weight_g": 31.1
+  },
+  "last_price": 1584
+ },
+ "22813": {
+  "name": "1 oz Star Wars Darth Vader Stříbrná mince 2026",
+  "guid": "6e56ac40-7522-11f1-aef7-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 2029.0
+ },
+ "4002257": {
+  "name": "20 x 1 oz Stříbrný slitek PAMP USA Tube",
+  "guid": "6e5cd5f2-7522-11f1-bf56-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Kangaroo Silver Coin | 2026",
+   "premium_eur": 6.0,
+   "premium_pct": 10.05,
+   "weight_g": 31.1
+  },
+  "last_price": 35776.0
+ },
+ "20203": {
+  "name": "1 oz Vienna Philharmonic Stříbrná mince Mixed Years",
+  "guid": "6e62e0fa-7522-11f1-a1a0-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Silver Coin | Mixed Years",
+   "premium_eur": 3.5,
+   "premium_pct": 5.86,
+   "weight_g": 31.1
+  },
+  "last_price": 1548
+ },
+ "101468": {
+  "name": "1 oz Emu Perth Mint Zlatá mince 2026",
+  "guid": "6e688758-7522-11f1-9191-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Emu Perth Mint Gold Coin | 2026",
+   "premium_eur": 92.93,
+   "premium_pct": 2.5,
+   "weight_g": 31.1
+  },
+  "last_price": 93411
+ },
+ "3002118": {
+  "name": "50g Zlatý slitek Valcambi Minted",
+  "guid": "6e6f2b08-7522-11f1-b26d-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | Valcambi | Minted",
+   "premium_eur": 90.0,
+   "premium_pct": 1.51,
+   "weight_g": 50.0
+  },
+  "last_price": 148724
+ },
+ "3002216": {
+  "name": "1 oz Zlatý slitek PAMP Rose",
+  "guid": "6e759b3c-7522-11f1-a6d7-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | PAMP Fortuna",
+   "premium_eur": 95.0,
+   "premium_pct": 2.56,
+   "weight_g": 31.1
+  },
+  "last_price": 93462
+ },
+ "30016": {
+  "name": "1 oz Zlatý slitek Perth Mint",
+  "guid": "6e7c08fa-7522-11f1-bca3-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Britannia Gold Bar | Royal Mint",
+   "premium_eur": 46.0,
+   "premium_pct": 1.24,
+   "weight_g": 31.1
+  },
+  "last_price": 92262
+ },
+ "235165": {
+  "name": "1 Kilo Noah's Ark Stříbrná mince 2026",
+  "guid": "6e82fc46-7522-11f1-b73c-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Noah's Ark Silver Coin | 2026",
+   "premium_eur": 150.0,
+   "premium_pct": 7.81,
+   "weight_g": 1000
+  },
+  "last_price": 50685
+ },
+ "109274": {
+  "name": "1 oz Queen's Beasts Falcon Zlatá mince 2019",
+  "guid": "6e8be784-7522-11f1-94a5-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Tudor Beasts Queens Lion Gold Coin | 2026",
+   "premium_eur": 125.0,
+   "premium_pct": 3.36,
+   "weight_g": 31.1
+  },
+  "last_price": 94196
+ },
+ "109252": {
+  "name": "1 oz Queen's Beasts Unicorn Zlatá mince (2018)",
+  "guid": "6e90e554-7522-11f1-a74a-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Tudor Beasts Queens Lion Gold Coin | 2026",
+   "premium_eur": 125.0,
+   "premium_pct": 3.36,
+   "weight_g": 31.1
+  },
+  "last_price": 94196
+ },
+ "5836": {
+  "name": "1 oz Umicore zlatý slitek",
+  "guid": "6e95e946-7522-11f1-9f39-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Umicore",
+   "premium_eur": 65.0,
+   "premium_pct": 1.75,
+   "weight_g": 31.1
+  },
+  "last_price": 92727
+ },
+ "5833": {
+  "name": "1 oz Valcambi zlatý slitek",
+  "guid": "6e99df9c-7522-11f1-8437-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Gold Bar | Valcambi",
+   "premium_eur": 75.0,
+   "premium_pct": 2.02,
+   "weight_g": 31.1
+  },
+  "last_price": 92972
+ },
+ "235167": {
+  "name": "1/2 oz Noah's Ark Stříbrná mince 2026",
+  "guid": "6e9dcee0-7522-11f1-960d-bc241162a327",
+  "metal": "ag",
+  "weight_g": 15.55175,
+  "skip": false,
+  "stonex": {
+   "item": "1/2 oz Noah's Ark Silver Coin | 2026",
+   "premium_eur": 2.3,
+   "premium_pct": 7.7,
+   "weight_g": 15.55
+  },
+  "last_price": 787
+ },
+ "235166": {
+  "name": "1/4 oz Noah's Ark Stříbrná mince 2026",
+  "guid": "6ea29b1e-7522-11f1-8664-bc241162a327",
+  "metal": "ag",
+  "weight_g": 7.775875,
+  "skip": false,
+  "stonex": {
+   "item": "1/4 oz Noah's Ark Silver Coin | 2026",
+   "premium_eur": 2.0,
+   "premium_pct": 13.4,
+   "weight_g": 7.78
+  },
+  "last_price": 415
+ },
+ "201395": {
+  "name": "10 oz Kookaburra Stříbrná mince 2026",
+  "guid": "6ea7bfae-7522-11f1-a6fe-bc241162a327",
+  "metal": "ag",
+  "weight_g": 311.035,
+  "skip": false,
+  "stonex": {
+   "item": "10 oz Kookaburra Silver Coin | 2026",
+   "premium_eur": 65.0,
+   "premium_pct": 10.88,
+   "weight_g": 311.04
+  },
+  "last_price": 16214
+ },
+ "235170": {
+  "name": "10 oz Noah's Ark Stříbrná mince 2026",
+  "guid": "6eaca4e2-7522-11f1-9328-bc241162a327",
+  "metal": "ag",
+  "weight_g": 311.035,
+  "skip": false,
+  "stonex": {
+   "item": "10 oz Noah's Ark Silver Coin | 2026",
+   "premium_eur": 55.0,
+   "premium_pct": 9.21,
+   "weight_g": 311.04
+  },
+  "last_price": 15969
+ },
+ "10202": {
+  "name": "20 Corona Franz-Joseph I Austria New Edition Zlatá mince 1915",
+  "guid": "6eb19038-7522-11f1-9900-bc241162a327",
+  "metal": "au",
+  "weight_g": 6.1,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": null
+ },
+ "118215": {
+  "name": "20 Dollar Double Eagle \"Liberty Head\" Gold 1850-1907",
+  "guid": "6eb676c0-7522-11f1-b8e3-bc241162a327",
+  "metal": "au",
+  "weight_g": 30.09,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "20 Dollar Double Eagle Liberty Head | Gold | 1850-1907",
+   "premium_eur": 35.96,
+   "premium_pct": 1.0,
+   "weight_g": 30.09
+  },
+  "last_price": 89056
+ },
+ "10301": {
+  "name": "20 Franc Leopold II Belgium Zlatá mince 1867 -1882",
+  "guid": "6ebb3138-7522-11f1-bbb6-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.81,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "20 French Francs Marianne Rooster Gold Coin | 1899-1914",
+   "premium_eur": 27.78,
+   "premium_pct": 4.0,
+   "weight_g": 5.81
+  },
+  "last_price": 29132
+ },
+ "11015": {
+  "name": "20 French Francs Angel (Génie) 3rd Republic Gold 1871-1898",
+  "guid": "6ebfa5ba-7522-11f1-99eb-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": {
+   "item": "20 French Francs Angel (Génie) 3rd Republic | Gold | 1871-1898",
+   "premium_eur": 27.78,
+   "premium_pct": 4.0,
+   "weight_g": 5.81
+  },
+  "last_price": 17706
+ },
+ "11014": {
+  "name": "20 French Francs Cérès 2nd Republic Gold 1848-1852",
+  "guid": "6ec47ffe-7522-11f1-bfe7-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": {
+   "item": "20 French Francs Cérès 2nd Republic | Gold | 1848-1852",
+   "premium_eur": 34.72,
+   "premium_pct": 5.0,
+   "weight_g": 5.81
+  },
+  "last_price": 29302
+ },
+ "11012": {
+  "name": "20 French Francs Marianne Rooster Zlatá mince 1899-1914",
+  "guid": "6ec98800-7522-11f1-88bb-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": {
+   "item": "20 French Francs Marianne Rooster Gold Coin | 1899-1914",
+   "premium_eur": 27.78,
+   "premium_pct": 4.0,
+   "weight_g": 5.81
+  },
+  "last_price": 29132
+ },
+ "11021": {
+  "name": "20 French Francs Napoléon III Gold 1853-1860",
+  "guid": "6ece04b6-7522-11f1-85c6-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.81,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "20 French Francs Napoléon III | Gold | 1853-1860",
+   "premium_eur": 34.72,
+   "premium_pct": 5.0,
+   "weight_g": 5.81
+  },
+  "last_price": 17876
+ },
+ "11013": {
+  "name": "20 French Francs Napoleon III Bonaparte Gold Mixed Years",
+  "guid": "6ed2a516-7522-11f1-8dd2-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.81,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "20 French Francs Napoleon III Bonaparte | Gold | Mixed Years",
+   "premium_eur": 17.36,
+   "premium_pct": 2.5,
+   "weight_g": 5.81
+  },
+  "last_price": 28877
+ },
+ "10702": {
+  "name": "20 Kroner Frederik VIII Denmark Gold 1908-1912",
+  "guid": "6ed7681c-7522-11f1-a5de-bc241162a327",
+  "metal": "au",
+  "weight_g": 8.06,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "20 Kroner Frederik VIII Denmark | Gold | 1908-1912",
+   "premium_eur": 48.16,
+   "premium_pct": 5.0,
+   "weight_g": 8.06
+  },
+  "last_price": 24798
+ },
+ "10703": {
+  "name": "20 Kroner Christian X Denmark Zlatá mince 1913-1917",
+  "guid": "6edc1a74-7522-11f1-b22f-bc241162a327",
+  "metal": "au",
+  "weight_g": 8.06,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "20 Kroner Christian X Denmark Gold Coin | 1913-1917",
+   "premium_eur": 48.16,
+   "premium_pct": 5.0,
+   "weight_g": 8.06
+  },
+  "last_price": 24798
+ },
+ "10803": {
+  "name": "20 Mark Emperor Wilhelm I Prussia Zlatá mince 1871-1888",
+  "guid": "6ee0c614-7522-11f1-9cbe-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.16,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": null
+ },
+ "11703": {
+  "name": "20 Swiss Francs Helvetica Gold 1883-1896",
+  "guid": "6ee552d8-7522-11f1-b6ac-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": {
+   "item": "20 Swiss Francs Helvetica | Gold | 1883-1896",
+   "premium_eur": 48.58,
+   "premium_pct": 7.0,
+   "weight_g": 5.81
+  },
+  "last_price": 18215
+ },
+ "11701": {
+  "name": "20 Swiss Francs Vreneli Gold 1897-1949",
+  "guid": "6ee9e3de-7522-11f1-8079-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.81,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "20 Swiss Francs Vreneli | Gold | 1897-1949",
+   "premium_eur": 16.67,
+   "premium_pct": 2.4,
+   "weight_g": 5.81
+  },
+  "last_price": 28860
+ },
+ "J00004": {
+  "name": "22kt Gold Round Cable Chain Necklace",
+  "guid": "6eee0856-7522-11f1-9d5e-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": null,
+  "last_price": 41004.0
+ },
+ "J00003": {
+  "name": "22kt Gold Wheat Chain Necklace",
+  "guid": "6ef22b8e-7522-11f1-aa6c-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": null,
+  "last_price": 52787.0
+ },
+ "204277": {
+  "name": "5 oz Grand Maple Leaf Stříbrná mince 2026",
+  "guid": "6ef6702c-7522-11f1-8edc-bc241162a327",
+  "metal": "ag",
+  "weight_g": 155.5175,
+  "skip": false,
+  "stonex": {
+   "item": "5 oz Grand Maple Leaf Silver Coin | 2026",
+   "premium_eur": 25.0,
+   "premium_pct": 8.37,
+   "weight_g": 155.52
+  },
+  "last_price": 7923
+ },
+ "235169": {
+  "name": "5 oz Noah's Ark Stříbrná mince 2026",
+  "guid": "6efafca0-7522-11f1-b72d-bc241162a327",
+  "metal": "ag",
+  "weight_g": 155.5175,
+  "skip": false,
+  "stonex": {
+   "item": "5 oz Grand Maple Leaf Silver Coin | 2026",
+   "premium_eur": 25.0,
+   "premium_pct": 8.37,
+   "weight_g": 155.52
+  },
+  "last_price": 7923
+ },
+ "11201": {
+  "name": "50 Gold Mexican Pesos 1821-1947",
+  "guid": "6effd716-7522-11f1-9be9-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": {
+   "item": "50 Gold Mexican Pesos | 1821-1947",
+   "premium_eur": 134.45,
+   "premium_pct": 3.0,
+   "weight_g": 37.5
+  },
+  "last_price": 113182
+ },
+ "1959": {
+  "name": "Argor-Heraeus stříbrný slitek 1 kg",
+  "guid": "6f04ade0-7522-11f1-8249-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Silver Bar | Argor-Heraeus",
+   "premium_eur": 70.0,
+   "premium_pct": 3.65,
+   "weight_g": 1000
+  },
+  "last_price": 61889.94
+ },
+ "3002092": {
+  "name": "C. Hafner zlatý slitek 10 g",
+  "guid": "6f0e179a-7522-11f1-a590-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Gold Bar | Argor-Heraeus",
+   "premium_eur": 30.0,
+   "premium_pct": 2.51,
+   "weight_g": 10.0
+  },
+  "last_price": 30039
+ },
+ "3002095": {
+  "name": "C. Hafner zlatý slitek 100 g",
+  "guid": "6f12bc3c-7522-11f1-88da-bc241162a327",
+  "metal": "au",
+  "weight_g": 100.0,
+  "skip": false,
+  "stonex": {
+   "item": "100 x 1g CombiBar | Gold | Valcambi",
+   "premium_eur": 506.41,
+   "premium_pct": 4.24,
+   "weight_g": 100
+  },
+  "last_price": 305440
+ },
+ "3002093": {
+  "name": "C. Hafner zlatý slitek 20 g",
+  "guid": "6f1764d0-7522-11f1-b66f-bc241162a327",
+  "metal": "au",
+  "weight_g": 20.0,
+  "skip": false,
+  "stonex": {
+   "item": "20g Gold Bar | C.Hafner",
+   "premium_eur": 46.2,
+   "premium_pct": 1.93,
+   "weight_g": 20.0
+  },
+  "last_price": 59739
+ },
+ "3002091": {
+  "name": "C. Hafner zlatý slitek 5 g",
+  "guid": "6f1bd51a-7522-11f1-901c-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | Argor-Heraeus",
+   "premium_eur": 35.0,
+   "premium_pct": 5.86,
+   "weight_g": 5.0
+  },
+  "last_price": 15509
+ },
+ "3002094": {
+  "name": "C. Hafner zlatý slitek 50 g",
+  "guid": "6f2077d2-7522-11f1-9489-bc241162a327",
+  "metal": "au",
+  "weight_g": 50.0,
+  "skip": false,
+  "stonex": {
+   "item": "50g Gold Bar | Umicore",
+   "premium_eur": 105.0,
+   "premium_pct": 1.76,
+   "weight_g": 50.0
+  },
+  "last_price": 149091
+ },
+ "1912": {
+  "name": "Certifikát s garancí zpětného výkupu za zvýhodněnou cenu",
+  "guid": "6f2563aa-7522-11f1-9731-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": null,
+  "last_price": 1000.0
+ },
+ "4512": {
+  "name": "ČNB Letoun Aero L-39 PROOF 2025",
+  "guid": "6f2a6062-7522-11f1-a201-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4509": {
+  "name": "ČNB Letoun Aero L-39 STANDARD 2025",
+  "guid": "6f2ee9fc-7522-11f1-936b-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "3881": {
+  "name": "ČNB Stříbrná mince 100 Kč 2024 Bezpečnostní informační služba Proof",
+  "guid": "6f338566-7522-11f1-9410-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4386": {
+  "name": "ČNB Stříbrná mince 100 Kč 2025 Nejvyšší soud",
+  "guid": "6f389c0e-7522-11f1-8f1f-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "3875": {
+  "name": "ČNB Stříbrná mince 200 Kč 2024 Karel Škréta BK",
+  "guid": "6f3da758-7522-11f1-b47e-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "3878": {
+  "name": "ČNB Stříbrná mince 200 Kč 2024 Karel Škréta Proof",
+  "guid": "6f424b78-7522-11f1-a030-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4383": {
+  "name": "ČNB Stříbrná mince 200 Kč 2025 Böhmishe Sparkasse Proof",
+  "guid": "6f46f57e-7522-11f1-849b-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4380": {
+  "name": "ČNB Stříbrná mince 200 Kč 2025 Böhmishe Sparkasse Standard",
+  "guid": "6f4be494-7522-11f1-94f9-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "3812": {
+  "name": "ČNB Stříbrná mince 200 Kč Bedřich Smetana BK",
+  "guid": "6f50d9b8-7522-11f1-a935-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "3806": {
+  "name": "ČNB Stříbrná mince 200 Kč Bedřich Smetana Proof",
+  "guid": "6f557ec8-7522-11f1-99ea-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "3815": {
+  "name": "ČNB Stříbrná mince 200 Kč Josef Suk BK",
+  "guid": "6f5a51dc-7522-11f1-9cbf-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "3809": {
+  "name": "ČNB Stříbrná mince 200 Kč Josef Suk Proof",
+  "guid": "6f5f4ce6-7522-11f1-ac4a-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4125": {
+  "name": "ČNB Stříbrná mince 200 Kč Vydání Komenského mapy Moravy 400. výročí 2024 BK",
+  "guid": "6f642e0a-7522-11f1-aa3a-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4128": {
+  "name": "ČNB Stříbrná mince 200 Kč Vydání Komenského mapy Moravy 400. výročí 2024 Proof",
+  "guid": "6f68fc78-7522-11f1-9956-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4056": {
+  "name": "ČNB Stříbrná mince 500 Kč 2024 Tramvaj ČKD Tatra T3",
+  "guid": "6f6e88f0-7522-11f1-9c73-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4503": {
+  "name": "ČNB Věstonická Venuše 2025 Proof",
+  "guid": "6f7414c8-7522-11f1-9a8e-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4506": {
+  "name": "ČNB Věstonická Venuše 2025 Standard",
+  "guid": "6f796d4c-7522-11f1-b591-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "3719": {
+  "name": "ČNB zlatá mince 2024 15,5 g",
+  "guid": "6f7e8d22-7522-11f1-9c21-bc241162a327",
+  "metal": "cnb",
+  "weight_g": 15.5,
+  "skip": true,
+  "stonex": null,
+  "last_price": 51000.0
+ },
+ "4062": {
+  "name": "ČNB zlatá mince 2024 15,55 g",
+  "guid": "6f823be8-7522-11f1-ac14-bc241162a327",
+  "metal": "cnb",
+  "weight_g": 15.55,
+  "skip": true,
+  "stonex": null,
+  "last_price": 51000.0
+ },
+ "4534": {
+  "name": "ČNB Zlatá mince 5000 Kč Městská památková rezervace Tábor 2025 proof",
+  "guid": "6f85a6a2-7522-11f1-a9fd-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null,
+  "last_price": 51000.0
+ },
+ "109377": {
+  "name": "Half Sovereign Charles III Zlatá mince 2025",
+  "guid": "6f8a61b0-7522-11f1-bf59-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "Sovereign Charles III Gold Coin | 2026",
+   "premium_eur": 63.43,
+   "premium_pct": 7.25,
+   "weight_g": 7.32
+  },
+  "last_price": 23004
+ },
+ "70013": {
+  "name": "Investiční platinový slitek 1g",
+  "guid": "6f9404b8-7522-11f1-8c30-bc241162a327",
+  "metal": "pt",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Platinum Bar | PAMP Fortuna",
+   "premium_eur": 42.5,
+   "premium_pct": 88.21,
+   "weight_g": 1.0
+  },
+  "last_price": 16848.0
+ },
+ "10902": {
+  "name": "King Edward VII Gold Sovereign 1902-1910",
+  "guid": "6f97c0d0-7522-11f1-b8d5-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "King Edward VII Gold Sovereign | 1902-1910",
+   "premium_eur": 26.25,
+   "premium_pct": 3.0,
+   "weight_g": 7.32
+  },
+  "last_price": 22093
+ },
+ "10903": {
+  "name": "King George V Gold Sovereign 1911-1932",
+  "guid": "6f9c76ca-7522-11f1-8cb8-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "King George V Gold Sovereign | 1911-1932",
+   "premium_eur": 26.25,
+   "premium_pct": 3.0,
+   "weight_g": 7.32
+  },
+  "last_price": 22093
+ },
+ "4539": {
+  "name": "Mimořádná zlatá mince 10000 Kč Začátek vlády knížete Václava 2025 BK",
+  "guid": "6f9fd37e-7522-11f1-9d53-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4540": {
+  "name": "Mimořádná zlatá mince 10000 Kč Začátek vlády knížete Václava 2025 Proof",
+  "guid": "6fa327b8-7522-11f1-8709-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "10212": {
+  "name": "Münze Österreich Wiener Philharmoniker zlatá mince 1/2 oz",
+  "guid": "6fa7c7f0-7522-11f1-a56e-bc241162a327",
+  "metal": "au",
+  "weight_g": 15.55175,
+  "skip": false,
+  "stonex": {
+   "item": "1/2 oz Vienna Philharmonic Gold Coin | 2026",
+   "premium_eur": 92.93,
+   "premium_pct": 5.0,
+   "weight_g": 15.55
+  },
+  "last_price": 47843
+ },
+ "10205": {
+  "name": "Münze Österreich Zlatá mince 1 Dukát Františka Josefa I. 1915 Novoražba 3,49 g",
+  "guid": "6fb4d5b2-7522-11f1-adc9-bc241162a327",
+  "metal": "au",
+  "weight_g": 3.49,
+  "skip": false,
+  "stonex": {
+   "item": "1 Ducat | Gold Coin | Circulated",
+   "premium_eur": 15.42,
+   "premium_pct": 3.75,
+   "weight_g": 3.44
+  },
+  "last_price": 10458
+ },
+ "10286": {
+  "name": "Münze Österreich Zlatá mince 1 Dukát Františka Josefa I. 1915 Novoražba 3,49 g",
+  "guid": "6fb93792-7522-11f1-9f90-bc241162a327",
+  "metal": "au",
+  "weight_g": 3.49,
+  "skip": false,
+  "stonex": {
+   "item": "1 Ducat | Gold Coin | Circulated",
+   "premium_eur": 15.42,
+   "premium_pct": 3.75,
+   "weight_g": 3.44
+  },
+  "last_price": 10458
+ },
+ "10204": {
+  "name": "Münze Österreich Zlatá mince 4 Dukát Františka Josefa I. 1915 Novoražba 13,96 g",
+  "guid": "6fbd8b12-7522-11f1-bc65-bc241162a327",
+  "metal": "au",
+  "weight_g": 13.96,
+  "skip": false,
+  "stonex": {
+   "item": "4 Ducats | Gold Coin | Bullion Uncirculated",
+   "premium_eur": 106.89,
+   "premium_pct": 6.5,
+   "weight_g": 13.76
+  },
+  "last_price": 42940
+ },
+ "1915": {
+  "name": "Nakup a vyhraj - výherní los.",
+  "guid": "6fc20908-7522-11f1-9e47-bc241162a327",
+  "metal": "au",
+  "weight_g": null,
+  "skip": false,
+  "stonex": null
+ },
+ "70031": {
+  "name": "PAMP Fortuna platinový slitek 1 g",
+  "guid": "6fc6535a-7522-11f1-810f-bc241162a327",
+  "metal": "pt",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Platinum Bar | PAMP Fortuna",
+   "premium_eur": 42.5,
+   "premium_pct": 88.21,
+   "weight_g": 1.0
+  },
+  "last_price": 16848.0
+ },
+ "3002333": {
+  "name": "PAMP zlatý slitek 2,5 g",
+  "guid": "6fcfb81e-7522-11f1-b33b-bc241162a327",
+  "metal": "au",
+  "weight_g": 2.5,
+  "skip": false,
+  "stonex": {
+   "item": "2.5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 50.0,
+   "premium_pct": 16.73,
+   "weight_g": 2.5
+  },
+  "last_price": 8550
+ },
+ "3002336": {
+  "name": "PAMP zlatý slitek 2,5 g",
+  "guid": "6fd47dcc-7522-11f1-808d-bc241162a327",
+  "metal": "au",
+  "weight_g": 2.5,
+  "skip": false,
+  "stonex": {
+   "item": "2.5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 50.0,
+   "premium_pct": 16.73,
+   "weight_g": 2.5
+  },
+  "last_price": 8550
+ },
+ "3002311": {
+  "name": "PAMP zlatý slitek 5 g",
+  "guid": "6fd8e6f0-7522-11f1-89b7-bc241162a327",
+  "metal": "au",
+  "weight_g": 5.0,
+  "skip": false,
+  "stonex": {
+   "item": "5g Gold Bar | PAMP Fortuna",
+   "premium_eur": 39.0,
+   "premium_pct": 6.53,
+   "weight_g": 5.0
+  },
+  "last_price": 15607
+ },
+ "101446": {
+  "name": "Perth Mint Kangaroo zlatá mince 2025 1 oz",
+  "guid": "6fdd41dc-7522-11f1-81c9-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Emu Perth Mint Gold Coin | 2025",
+   "premium_eur": 111.52,
+   "premium_pct": 3.0,
+   "weight_g": 31.1
+  },
+  "last_price": 93866
+ },
+ "10904": {
+  "name": "Queen Elizabeth II Gold Sovereign 1957-2021",
+  "guid": "6fe18044-7522-11f1-ba7b-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "Queen Elizabeth II Gold Sovereign | 1957-2021",
+   "premium_eur": 30.62,
+   "premium_pct": 3.5,
+   "weight_g": 7.32
+  },
+  "last_price": 22200
+ },
+ "10928": {
+  "name": "Queen Victoria Jubilee Gold Sovereign 1887-1893",
+  "guid": "6fe5bfb0-7522-11f1-9048-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "Queen Victoria Jubilee Gold Sovereign | 1887-1893",
+   "premium_eur": 48.12,
+   "premium_pct": 5.5,
+   "weight_g": 7.32
+  },
+  "last_price": 22629
+ },
+ "10901": {
+  "name": "Queen Victoria Old Head Gold Sovereign 1893-1901",
+  "guid": "6fe9ea68-7522-11f1-87ea-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "Queen Victoria Old Head Gold Sovereign | 1893-1901",
+   "premium_eur": 45.93,
+   "premium_pct": 5.25,
+   "weight_g": 7.32
+  },
+  "last_price": 22575
+ },
+ "10927": {
+  "name": "Queen Victoria Young Head Gold Sovereign 1838-1887",
+  "guid": "6fee0f1c-7522-11f1-bf72-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "Queen Victoria Jubilee Gold Sovereign | 1887-1893",
+   "premium_eur": 48.12,
+   "premium_pct": 5.5,
+   "weight_g": 7.32
+  },
+  "last_price": 22629
+ },
+ "11610": {
+  "name": "Rand Refinery South Africa Krugerrand zlatá mince 1/4 oz různé ročníky",
+  "guid": "6ff2ca7a-7522-11f1-b6e5-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.775875,
+  "skip": false,
+  "stonex": {
+   "item": "1/4 oz Krugerrand Gold Coin | 2026",
+   "premium_eur": 74.35,
+   "premium_pct": 8.0,
+   "weight_g": 7.78
+  },
+  "last_price": 24619
+ },
+ "116256": {
+  "name": "Rand Refinery South Africa Krugerrand zlatá mince 2025 1 oz",
+  "guid": "6ff7962c-7522-11f1-86be-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Krugerrand Gold Coin | 2026",
+   "premium_eur": 95.0,
+   "premium_pct": 2.56,
+   "weight_g": 31.1
+  },
+  "last_price": 93462
+ },
+ "116267": {
+  "name": "Rand Refinery South Africa Krugerrand zlatá mince 2025 1/4 oz",
+  "guid": "6ffb1612-7522-11f1-a94d-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.775875,
+  "skip": false,
+  "stonex": {
+   "item": "1/4 oz Krugerrand Gold Coin | 2026",
+   "premium_eur": 74.35,
+   "premium_pct": 8.0,
+   "weight_g": 7.78
+  },
+  "last_price": 24619
+ },
+ "10407": {
+  "name": "Royal Canadian Mint Maple Leaf zlatá mince 1/4 oz",
+  "guid": "6fff8b8e-7522-11f1-b8a5-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.775875,
+  "skip": false,
+  "stonex": {
+   "item": "1/4 oz Maple Leaf Gold Coin | 2026",
+   "premium_eur": 102.23,
+   "premium_pct": 11.0,
+   "weight_g": 7.78
+  },
+  "last_price": 25302
+ },
+ "104309": {
+  "name": "Royal Canadian Mint Maple Leaf zlatá mince 2025 1 oz",
+  "guid": "7003f336-7522-11f1-ae2c-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Maple Leaf Gold Coin | 2026",
+   "premium_eur": 100.0,
+   "premium_pct": 2.69,
+   "weight_g": 31.1
+  },
+  "last_price": 93584
+ },
+ "109309": {
+  "name": "Sovereign Elizabeth II Zlatá mince 2022",
+  "guid": "700976a8-7522-11f1-aca0-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "Sovereign Elizabeth II Gold Coin | 2022",
+   "premium_eur": 131.23,
+   "premium_pct": 15.0,
+   "weight_g": 7.32
+  },
+  "last_price": 24664
+ },
+ "4530": {
+  "name": "Stříbrná mince 100 Kč 2025 Celní správa Proof",
+  "guid": "700f5fd2-7522-11f1-a243-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4557": {
+  "name": "Stříbrná mince 200 Kč 2025 Kronikář Kosmas proof",
+  "guid": "70141428-7522-11f1-9200-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "4560": {
+  "name": "Stříbrná mince 200 Kč 2025 Kronikář Kosmas standard",
+  "guid": "701872ac-7522-11f1-a3f6-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "101447": {
+  "name": "The Perth Mint Kangaroo zlatá mince 2025 1 kg",
+  "guid": "701cb5c4-7522-11f1-a724-bc241162a327",
+  "metal": "au",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Kangaroo Gold Coin | 2025",
+   "premium_eur": 2808.61,
+   "premium_pct": 2.35,
+   "weight_g": 1000
+  },
+  "last_price": 2999169
+ },
+ "201397": {
+  "name": "The Perth Mint Koala stříbrná mince 2026 1 kg",
+  "guid": "70216632-7522-11f1-a608-bc241162a327",
+  "metal": "ag",
+  "weight_g": 1000.0,
+  "skip": false,
+  "stonex": {
+   "item": "1 Kilo Koala Silver Coin | 2026",
+   "premium_eur": 100.0,
+   "premium_pct": 5.21,
+   "weight_g": 1000
+  },
+  "last_price": 49460
+ },
+ "209251": {
+  "name": "The Royal Mint Britannia stříbrná mince 2026 1/4 oz",
+  "guid": "7025df00-7522-11f1-935c-bc241162a327",
+  "metal": "ag",
+  "weight_g": 7.775875,
+  "skip": false,
+  "stonex": {
+   "item": "1/4 oz Britannia Charles III Silver Coin | 2026",
+   "premium_eur": 7.25,
+   "premium_pct": 48.56,
+   "weight_g": 7.78
+  },
+  "last_price": 543
+ },
+ "4458": {
+  "name": "The Royal Mint Britannia zlatá mince 10 g",
+  "guid": "702a461c-7522-11f1-8097-bc241162a327",
+  "metal": "au",
+  "weight_g": 10.0,
+  "skip": false,
+  "stonex": {
+   "item": "10g Britannia Gold Bar | Royal Mint",
+   "premium_eur": 35.0,
+   "premium_pct": 2.93,
+   "weight_g": 10.0
+  },
+  "last_price": 16848.0
+ },
+ "109375": {
+  "name": "The Royal Mint Britannia zlatá mince 2025 1 oz",
+  "guid": "702d8048-7522-11f1-9461-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Britannia Gold Bar | Royal Mint",
+   "premium_eur": 46.0,
+   "premium_pct": 1.24,
+   "weight_g": 31.1
+  },
+  "last_price": 92262
+ },
+ "4002200": {
+  "name": "The Royal Mint stříbrný slitek 1 oz",
+  "guid": "70321838-7522-11f1-9bb6-bc241162a327",
+  "metal": "ag",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz Emu Perth Mint Silver Coin | 2026",
+   "premium_eur": 6.25,
+   "premium_pct": 10.47,
+   "weight_g": 31.1
+  },
+  "last_price": 1615
+ },
+ "3002307": {
+  "name": "Umicore zlatý slitek 2,5 g",
+  "guid": "703592ec-7522-11f1-941a-bc241162a327",
+  "metal": "au",
+  "weight_g": 2.5,
+  "skip": false,
+  "stonex": {
+   "item": "2.5g Gold Bar | Umicore",
+   "premium_eur": 35.0,
+   "premium_pct": 11.71,
+   "weight_g": 2.5
+  },
+  "last_price": 8183
+ },
+ "118307": {
+  "name": "United States Mint American Eagle zlatá mince 2025 1/2 oz",
+  "guid": "703a1a2e-7522-11f1-a774-bc241162a327",
+  "metal": "au",
+  "weight_g": 15.55175,
+  "skip": false,
+  "stonex": {
+   "item": "1/2 oz American Eagle Gold Coin | 2026",
+   "premium_eur": 130.11,
+   "premium_pct": 7.0,
+   "weight_g": 15.55
+  },
+  "last_price": 79335
+ },
+ "118308": {
+  "name": "United States Mint American Eagle zlatá mince 2025 1/4 oz",
+  "guid": "703e948c-7522-11f1-a756-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.775875,
+  "skip": false,
+  "stonex": {
+   "item": "1/4 oz American Eagle Gold Coin | 2026",
+   "premium_eur": 92.93,
+   "premium_pct": 10.0,
+   "weight_g": 7.78
+  },
+  "last_price": 25074
+ },
+ "70012": {
+  "name": "Valcambi platinový slitek 2,5 g",
+  "guid": "70436372-7522-11f1-9983-bc241162a327",
+  "metal": "pt",
+  "weight_g": 2.5,
+  "skip": false,
+  "stonex": null,
+  "last_price": 16848.0
+ },
+ "30096": {
+  "name": "Valcambi zlatý slitek CombiBar 5 x 1 g",
+  "guid": "7047e5c8-7522-11f1-bafe-bc241162a327",
+  "metal": "au",
+  "weight_g": 1.0,
+  "skip": false,
+  "stonex": {
+   "item": "1g Gold Bar | Valcambi",
+   "premium_eur": 21.5,
+   "premium_pct": 17.99,
+   "weight_g": 1.0
+  },
+  "last_price": 3457
+ },
+ "11601": {
+  "name": "Zlatá investiční mince 2 Rand - Jižní Afrika 1961-1983",
+  "guid": "704daefe-7522-11f1-9be3-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "South African 2 Rand Gold Coin | 1961-1983",
+   "premium_eur": 36.25,
+   "premium_pct": 4.14,
+   "weight_g": 7.32
+  },
+  "last_price": 22338
+ },
+ "118310": {
+  "name": "Zlatá investiční mince American Buffalo 1 Oz 2025",
+  "guid": "70525b5c-7522-11f1-a4dd-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Buffalo Gold Coin | 2026",
+   "premium_eur": 157.99,
+   "premium_pct": 4.25,
+   "weight_g": 31.1
+  },
+  "last_price": 95004
+ },
+ "118302": {
+  "name": "Zlatá investiční mince American Eagle (Americký orel) 1/2 Oz 2024",
+  "guid": "7056f522-7522-11f1-b99e-bc241162a327",
+  "metal": "au",
+  "weight_g": 15.55175,
+  "skip": false,
+  "stonex": {
+   "item": "1/2 oz American Eagle Gold Coin | 2026",
+   "premium_eur": 130.11,
+   "premium_pct": 7.0,
+   "weight_g": 15.55
+  },
+  "last_price": 48753
+ },
+ "106162": {
+  "name": "Zlatá investiční mince Čínská Panda 15 g 2024",
+  "guid": "705b4398-7522-11f1-ae3e-bc241162a327",
+  "metal": "au",
+  "weight_g": 15.0,
+  "skip": false,
+  "stonex": {
+   "item": "15g China Panda Gold Coin | 2026",
+   "premium_eur": 161.35,
+   "premium_pct": 9.0,
+   "weight_g": 15.0
+  },
+  "last_price": 47907
+ },
+ "13502": {
+  "name": "Zlatá investiční mince Noemova archa 1 Oz 2025",
+  "guid": "705f823c-7522-11f1-befd-bc241162a327",
+  "metal": "au",
+  "weight_g": 31.1035,
+  "skip": false,
+  "stonex": {
+   "item": "1 oz American Eagle Gold Coin | 2025",
+   "premium_eur": 148.69,
+   "premium_pct": 4.0,
+   "weight_g": 31.1
+  },
+  "last_price": 94776
+ },
+ "11412": {
+  "name": "Zlatá mince 10 guldenů Vilém III. Nizozemský různé roky",
+  "guid": "7062af52-7522-11f1-9c47-bc241162a327",
+  "metal": "au",
+  "weight_g": 6.06,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "10 Dutch Guilders Willem III or Wilhelmina | Gold | mixed years",
+   "premium_eur": 21.73,
+   "premium_pct": 3.0,
+   "weight_g": 6.06
+  },
+  "last_price": 18290
+ },
+ "4551": {
+  "name": "Zlatá mince 10000 Kč Kněžna Ludmila 2021",
+  "guid": "70670a98-7522-11f1-bc4f-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null,
+  "last_price": 101000.0
+ },
+ "11102": {
+  "name": "Zlatá mince 20 lira Umberto I. 1879-1897",
+  "guid": "706a4e24-7522-11f1-9dd3-bc241162a327",
+  "metal": "au",
+  "weight_g": 6.45,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": null
+ },
+ "4497": {
+  "name": "Zlatá mince 5000 Kč Městská památková rezervace Štramberk 2025 proof",
+  "guid": "706e8ea8-7522-11f1-9bb1-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null
+ },
+ "109331": {
+  "name": "Zlatá mince britský pamětní půl Sovereign Karel III. 2022",
+  "guid": "7072192e-7522-11f1-872e-bc241162a327",
+  "metal": "au",
+  "weight_g": 7.32,
+  "skip": false,
+  "weight_source": "numismatic_const",
+  "stonex": {
+   "item": "Memorial Sovereign Charles III Gold Coin | 2022",
+   "premium_eur": 52.49,
+   "premium_pct": 6.0,
+   "weight_g": 7.32
+  },
+  "last_price": 22736
+ },
+ "4059": {
+  "name": "Zlatá mince český dukát ČNB s motivem sv. Václava",
+  "guid": "70767a32-7522-11f1-9ef8-bc241162a327",
+  "metal": "cnb",
+  "weight_g": null,
+  "skip": true,
+  "stonex": null,
+  "last_price": 12500.0
+ },
+ "102100": {
+  "name": "Wiener Philharmoniker 1/2 oz 2026",
+  "guid": "",
+  "metal": "au",
+  "skip": false,
+  "last_price": null
+ },
+ "3002327": {
+  "name": "10g Argor-Heraeus Year of the Horse 2026",
+  "guid": "",
+  "metal": "au",
+  "skip": false,
+  "last_price": null
+ }
+}
